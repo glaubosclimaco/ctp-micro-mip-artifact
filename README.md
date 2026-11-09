@@ -50,4 +50,4 @@ Code: MIT (`LICENSE`). Data, logs and tables: CC BY 4.0 (`LICENSE-DATA.md`). The
 
 ## How to cite
 
-Cite the paper once it is published and this archive through its Zenodo DOI (see `CITATION.cff`).
+Cite the paper once it is published. To cite this repository, use `CITATION.cff` (GitHub's "Cite this repository" button) and give the commit hash, e.g. `5c70379`.
