@@ -1,0 +1,105 @@
+{
+  "job": {
+    "case": "rd400.V100",
+    "seed": 20261141,
+    "key": "rd400.V100.seed20261141"
+  },
+  "status": "COMPLETED",
+  "started_unix": 1793920297.6942823,
+  "cpu": 2,
+  "protocol_sha256": "d12fc0c15f81dbbaecf6c082405bfc4653359d284ae45727e73ab6ab2d9798af",
+  "preparation_seconds": 0.010961502091959119,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261141,
+    "iterations": 30000,
+    "complete": true,
+    "cost": 3866,
+    "selector_calls": 6,
+    "labels": 4080228,
+    "wall_seconds": 9410.73,
+    "removal_calls": [
+      9670,
+      10071,
+      10259
+    ],
+    "insertion_calls": [
+      10058,
+      9733,
+      10209
+    ],
+    "route": [
+      0,
+      91,
+      59,
+      92,
+      13,
+      98,
+      26,
+      45,
+      69,
+      82,
+      43,
+      78,
+      83,
+      76,
+      66,
+      16,
+      5,
+      6,
+      67,
+      3
+    ]
+  },
+  "alns_wrapper_seconds": 9410.758974538883,
+  "polishing": {
+    "initial_cost": 3866,
+    "final_cost": 3854,
+    "total_gain": 12,
+    "elapsed_seconds": 12.5723946550861,
+    "passes": 2,
+    "improvements_count": 1,
+    "improvements_log": [
+      {
+        "pass": 1,
+        "window_size": 4,
+        "start_idx": 17,
+        "gain": 12,
+        "cost": 3854,
+        "time": 0.07255824306048453
+      }
+    ],
+    "final_route": [
+      0,
+      3,
+      91,
+      59,
+      92,
+      13,
+      98,
+      26,
+      45,
+      69,
+      82,
+      43,
+      78,
+      83,
+      76,
+      66,
+      16,
+      5,
+      6,
+      67
+    ]
+  },
+  "gain": 12,
+  "finished_unix": 1793929721.0373325,
+  "total_seconds": 9423.343052170938,
+  "max_rss_worker_kb": 83512,
+  "max_rss_alns_kb": 1908424,
+  "log_hashes": {
+    "logs/rd400.V100.seed20261141.alns.stdout": "458729e3bce31783359e6129d27e737486d7b00be67152014a6622878bf0f527",
+    "logs/rd400.V100.seed20261141.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

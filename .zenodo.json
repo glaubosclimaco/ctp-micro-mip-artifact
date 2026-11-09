@@ -1,0 +1,11 @@
+{
+  "title": "Data and code for: Exact window re-optimization of Adaptive Large Neighborhood Search tours for the Covering Tour Problem",
+  "upload_type": "dataset",
+  "description": "590 audited runs (59 instances x 10 seeds) of an ALNS for the Covering Tour Problem followed by a Micro-MIP window polisher, with the ALNS logs, protocol, polisher, auditing code and scripts that generate the tables and figures of the paper. Code is MIT-licensed; data are CC BY 4.0.",
+  "creators": [
+    {"name": "Clímaco, Glaubos", "affiliation": "Universidade Federal do Maranhão (UFMA), Brazil"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["covering tour problem", "matheuristic", "adaptive large neighborhood search", "mixed-integer programming"],
+  "access_right": "open"
+}

@@ -1,0 +1,111 @@
+{
+  "job": {
+    "case": "kroB200.V100",
+    "seed": 20261141,
+    "key": "kroB200.V100.seed20261141"
+  },
+  "status": "COMPLETED",
+  "started_unix": 1793915187.5571313,
+  "cpu": 2,
+  "protocol_sha256": "d12fc0c15f81dbbaecf6c082405bfc4653359d284ae45727e73ab6ab2d9798af",
+  "preparation_seconds": 0.004154212074354291,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261141,
+    "iterations": 30000,
+    "complete": true,
+    "cost": 10213,
+    "selector_calls": 8,
+    "labels": 665052,
+    "wall_seconds": 179.523,
+    "removal_calls": [
+      9941,
+      10120,
+      9939
+    ],
+    "insertion_calls": [
+      10047,
+      9886,
+      10067
+    ],
+    "route": [
+      0,
+      89,
+      2,
+      84,
+      39,
+      68,
+      64,
+      36,
+      53,
+      54,
+      76,
+      95,
+      62,
+      32,
+      63,
+      88,
+      59,
+      93,
+      97
+    ]
+  },
+  "alns_wrapper_seconds": 179.53482655994594,
+  "polishing": {
+    "initial_cost": 10213,
+    "final_cost": 10075,
+    "total_gain": 138,
+    "elapsed_seconds": 5.433464940870181,
+    "passes": 2,
+    "improvements_count": 2,
+    "improvements_log": [
+      {
+        "pass": 1,
+        "window_size": 4,
+        "start_idx": 12,
+        "gain": 126,
+        "cost": 10087,
+        "time": 0.033101601991802454
+      },
+      {
+        "pass": 1,
+        "window_size": 6,
+        "start_idx": 0,
+        "gain": 12,
+        "cost": 10075,
+        "time": 0.08325405605137348
+      }
+    ],
+    "final_route": [
+      0,
+      2,
+      9,
+      39,
+      29,
+      19,
+      64,
+      36,
+      53,
+      54,
+      76,
+      95,
+      62,
+      81,
+      32,
+      88,
+      59,
+      93,
+      97
+    ]
+  },
+  "gain": 138,
+  "finished_unix": 1793915372.5303273,
+  "total_seconds": 184.9731976359617,
+  "max_rss_worker_kb": 81988,
+  "max_rss_alns_kb": 187160,
+  "log_hashes": {
+    "logs/kroB200.V100.seed20261141.alns.stdout": "e90415af9f8f1a06b87d9abc8c624245fcd0e31c951ef970e6f2c6590576a161",
+    "logs/kroB200.V100.seed20261141.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

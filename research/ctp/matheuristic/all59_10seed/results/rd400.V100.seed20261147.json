@@ -1,0 +1,107 @@
+{
+  "job": {
+    "case": "rd400.V100",
+    "seed": 20261147,
+    "key": "rd400.V100.seed20261147"
+  },
+  "status": "COMPLETED",
+  "started_unix": 1793938422.7712429,
+  "cpu": 2,
+  "protocol_sha256": "d12fc0c15f81dbbaecf6c082405bfc4653359d284ae45727e73ab6ab2d9798af",
+  "preparation_seconds": 0.011290497845038772,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261147,
+    "iterations": 30000,
+    "complete": true,
+    "cost": 3854,
+    "selector_calls": 19,
+    "labels": 2041716,
+    "wall_seconds": 106.03,
+    "removal_calls": [
+      9917,
+      10128,
+      9955
+    ],
+    "insertion_calls": [
+      9583,
+      9852,
+      10565
+    ],
+    "route": [
+      0,
+      91,
+      59,
+      92,
+      13,
+      98,
+      26,
+      45,
+      69,
+      82,
+      43,
+      37,
+      78,
+      83,
+      76,
+      66,
+      16,
+      5,
+      46,
+      75,
+      8
+    ]
+  },
+  "alns_wrapper_seconds": 106.03981314296834,
+  "polishing": {
+    "initial_cost": 3854,
+    "final_cost": 3849,
+    "total_gain": 5,
+    "elapsed_seconds": 11.130451312055811,
+    "passes": 2,
+    "improvements_count": 1,
+    "improvements_log": [
+      {
+        "pass": 1,
+        "window_size": 4,
+        "start_idx": 16,
+        "gain": 5,
+        "cost": 3849,
+        "time": 1.0023708320222795
+      }
+    ],
+    "final_route": [
+      0,
+      91,
+      59,
+      92,
+      13,
+      98,
+      26,
+      45,
+      69,
+      82,
+      43,
+      37,
+      78,
+      83,
+      76,
+      66,
+      16,
+      5,
+      6,
+      67,
+      8
+    ]
+  },
+  "gain": 5,
+  "finished_unix": 1793938539.953481,
+  "total_seconds": 117.18223974108696,
+  "max_rss_worker_kb": 83976,
+  "max_rss_alns_kb": 175336,
+  "log_hashes": {
+    "logs/rd400.V100.seed20261147.alns.stdout": "833aaf9519deba9c97dc1004adf4189f9e1733b8500ee8c9c43a3a4b942f5fe9",
+    "logs/rd400.V100.seed20261147.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

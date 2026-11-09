@@ -1,0 +1,25 @@
+\begin{table}[t]
+\centering
+\caption{Parameter ablation on one tour for each of the 15 instances where the default polisher had improved a run (post-hoc sample; see text).}
+\label{tab:ablation_sensitivity}
+\footnotesize\setlength{\tabcolsep}{4pt}
+\begin{tabular}{ll ccc}
+\toprule
+\textbf{Parameter} & \textbf{Configuration} & \textbf{Improved} & \textbf{Gain} & \textbf{Time (s)} \\
+\midrule
+\multicolumn{5}{l}{\textit{Panel A: Window Size ($k$) with default $C=16$}} \\
+Window size & $k=3$ & 12/15 & 392 & 2.771 \\
+Window size & $k=4$ & 12/15 & 376 & 3.378 \\
+Window size & $k=5$ & 9/15 & 188 & 2.109 \\
+Window size & $k=6$ & 9/15 & 404 & 2.393 \\
+Window size & $k=8$ & 7/15 & 220 & 2.724 \\
+Window size & $k \in (4, 6)$ & \textbf{14/15} & \textbf{815} & 7.027 \\
+\midrule
+\multicolumn{5}{l}{\textit{Panel B: Candidate Pool Size ($C$) with $k \in (4,6)$}} \\
+Candidate pool & $C = 8$ & 9/15 & 687 & 0.532 \\
+Candidate pool & $C = 12$ & 14/15 & 743 & 3.428 \\
+Candidate pool & $C = 16$ & \textbf{14/15} & \textbf{815} & 7.008 \\
+Candidate pool & $C = 24$ & 15/15 & 676 & 18.365 \\
+\bottomrule
+\end{tabular}
+\end{table}

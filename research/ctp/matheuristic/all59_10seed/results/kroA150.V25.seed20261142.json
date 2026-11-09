@@ -1,0 +1,95 @@
+{
+  "job": {
+    "case": "kroA150.V25",
+    "seed": 20261142,
+    "key": "kroA150.V25.seed20261142"
+  },
+  "status": "COMPLETED",
+  "started_unix": 1793912124.5857065,
+  "cpu": 0,
+  "protocol_sha256": "d12fc0c15f81dbbaecf6c082405bfc4653359d284ae45727e73ab6ab2d9798af",
+  "preparation_seconds": 0.001625663135200739,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261142,
+    "iterations": 30000,
+    "complete": true,
+    "cost": 8161,
+    "selector_calls": 13,
+    "labels": 3643,
+    "wall_seconds": 0.919321,
+    "removal_calls": [
+      10335,
+      9913,
+      9752
+    ],
+    "insertion_calls": [
+      10558,
+      9911,
+      9531
+    ],
+    "route": [
+      0,
+      24,
+      4,
+      13,
+      9,
+      18,
+      7
+    ]
+  },
+  "alns_wrapper_seconds": 0.9205941241234541,
+  "polishing": {
+    "initial_cost": 8161,
+    "final_cost": 8072,
+    "total_gain": 89,
+    "elapsed_seconds": 5.96793548297137,
+    "passes": 3,
+    "improvements_count": 3,
+    "improvements_log": [
+      {
+        "pass": 1,
+        "window_size": 4,
+        "start_idx": 0,
+        "gain": 31,
+        "cost": 8130,
+        "time": 1.0041354910936207
+      },
+      {
+        "pass": 2,
+        "window_size": 4,
+        "start_idx": 3,
+        "gain": 40,
+        "cost": 8090,
+        "time": 0.04554341989569366
+      },
+      {
+        "pass": 3,
+        "window_size": 4,
+        "start_idx": 4,
+        "gain": 18,
+        "cost": 8072,
+        "time": 1.0032391052227467
+      }
+    ],
+    "final_route": [
+      0,
+      9,
+      18,
+      7,
+      24,
+      4,
+      13
+    ]
+  },
+  "gain": 89,
+  "finished_unix": 1793912131.476467,
+  "total_seconds": 6.890761779155582,
+  "max_rss_worker_kb": 90580,
+  "max_rss_alns_kb": 40940,
+  "log_hashes": {
+    "logs/kroA150.V25.seed20261142.alns.stdout": "72f5c69852b2ec9242e9e9ecbea21a144b962a6ef71387db14081eac82a358c0",
+    "logs/kroA150.V25.seed20261142.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

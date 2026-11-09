@@ -1,0 +1,14 @@
+{
+  "key": "ali535.V81.seed20261144",
+  "case": "ali535.V81",
+  "seed": 20261144,
+  "alns_30k_cost": 42643,
+  "alns_30k_seconds": 30.13859969796613,
+  "hybrid_cost": 42643,
+  "hybrid_seconds": 30.323182039894164,
+  "hybrid_gain_vs_30k": 0,
+  "matched_iters": 30184,
+  "matched_alns_cost": 42643,
+  "matched_alns_seconds": 29.349617891013622,
+  "hybrid_gain_vs_matched": 0
+}

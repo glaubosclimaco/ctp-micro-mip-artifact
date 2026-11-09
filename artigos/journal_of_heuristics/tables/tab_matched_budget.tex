@@ -1,0 +1,25 @@
+\begin{table}[t]
+\centering
+\caption{Matched-budget evaluation on 11 instances selected because the polisher had improved at least one run there: ALNS run for the same wall-clock time as the hybrid versus the hybrid, 10 seeds per instance. Gain = matched-ALNS cost minus hybrid cost.}
+\label{tab:matched_budget}
+\footnotesize\setlength{\tabcolsep}{4pt}
+\begin{tabular}{l ccc cc c}
+\toprule
+\textbf{Instance} & \textbf{Runs} & \textbf{Wins} & \textbf{Ties} & \textbf{Losses} & \textbf{Mean gain} & \textbf{Max gain} \\
+\midrule
+ali535.V81 & 10 & \textbf{1} & 9 & 0 & +1.40 & 14 \\
+kroA100.V50 & 10 & \textbf{5} & 5 & 0 & +14.50 & 29 \\
+kroA150.V25 & 10 & \textbf{2} & 8 & 0 & +14.50 & 89 \\
+kroA150.V50 & 10 & \textbf{4} & 6 & 0 & +11.60 & 29 \\
+kroA150.V75 & 10 & \textbf{3} & 7 & 0 & +5.40 & 20 \\
+kroB100.V25 & 10 & \textbf{0} & 10 & 0 & +0.00 & 0 \\
+kroB100.V50 & 10 & \textbf{0} & 10 & 0 & +0.00 & 0 \\
+kroB200.V25 & 10 & \textbf{1} & 9 & 0 & +5.10 & 51 \\
+kroB200.V50 & 10 & \textbf{1} & 9 & 0 & +1.00 & 10 \\
+kroB200.V75 & 10 & \textbf{4} & 6 & 0 & +72.80 & 188 \\
+rd400.V60 & 10 & \textbf{1} & 9 & 0 & +0.70 & 7 \\
+\midrule
+\textbf{Total} & \textbf{110} & \textbf{22} (20.0\%) & \textbf{88} & \textbf{0} & \textbf{+11.55} & \textbf{188} \\
+\bottomrule
+\end{tabular}
+\end{table}

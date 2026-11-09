@@ -1,0 +1,66 @@
+{
+  "job": {
+    "case": "kroB150.V25",
+    "seed": 20261146,
+    "key": "kroB150.V25.seed20261146"
+  },
+  "status": "COMPLETED",
+  "started_unix": 1793912202.7658224,
+  "cpu": 0,
+  "protocol_sha256": "d12fc0c15f81dbbaecf6c082405bfc4653359d284ae45727e73ab6ab2d9798af",
+  "preparation_seconds": 0.001668781042098999,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261146,
+    "iterations": 30000,
+    "complete": true,
+    "cost": 6165,
+    "selector_calls": 6,
+    "labels": 1514,
+    "wall_seconds": 0.840111,
+    "removal_calls": [
+      10113,
+      10196,
+      9691
+    ],
+    "insertion_calls": [
+      10616,
+      10052,
+      9332
+    ],
+    "route": [
+      0,
+      11,
+      18,
+      22,
+      21
+    ]
+  },
+  "alns_wrapper_seconds": 0.8412616830319166,
+  "polishing": {
+    "initial_cost": 6165,
+    "final_cost": 6165,
+    "total_gain": 0,
+    "elapsed_seconds": 1.2640375643968582e-06,
+    "passes": 1,
+    "improvements_count": 0,
+    "improvements_log": [],
+    "final_route": [
+      0,
+      11,
+      18,
+      22,
+      21
+    ]
+  },
+  "gain": 0,
+  "finished_unix": 1793912203.6093256,
+  "total_seconds": 0.8435044700745493,
+  "max_rss_worker_kb": 40512,
+  "max_rss_alns_kb": 40512,
+  "log_hashes": {
+    "logs/kroB150.V25.seed20261146.alns.stdout": "f61e6f50841672bab48d1491f6afd7ae1887932d52f6bff022373fb0ea6c663a",
+    "logs/kroB150.V25.seed20261146.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

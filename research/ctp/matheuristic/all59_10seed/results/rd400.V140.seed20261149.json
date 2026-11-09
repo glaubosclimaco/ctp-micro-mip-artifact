@@ -1,0 +1,118 @@
+{
+  "job": {
+    "case": "rd400.V140",
+    "seed": 20261149,
+    "key": "rd400.V140.seed20261149"
+  },
+  "status": "CENSORED",
+  "started_unix": 1794143929.3358607,
+  "cpu": 0,
+  "protocol_sha256": "ac6532a0cad57a9769204e37a37388dbb7a16ee15a6e85bef79c1371ef456454",
+  "preparation_seconds": 0.01299605518579483,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261149,
+    "iterations": 190,
+    "complete": false,
+    "cost": 3688,
+    "selector_calls": 17,
+    "labels": 7491888,
+    "wall_seconds": 1800.04,
+    "removal_calls": [
+      63,
+      62,
+      66
+    ],
+    "insertion_calls": [
+      53,
+      65,
+      73
+    ],
+    "route": [
+      0,
+      3,
+      38,
+      16,
+      76,
+      83,
+      113,
+      43,
+      90,
+      96,
+      73,
+      69,
+      45,
+      26,
+      74,
+      105,
+      13,
+      134,
+      59,
+      100,
+      6,
+      5
+    ]
+  },
+  "alns_wrapper_seconds": 1800.0796102590393,
+  "polishing": {
+    "initial_cost": 3688,
+    "final_cost": 3670,
+    "total_gain": 18,
+    "elapsed_seconds": 12.990410403115675,
+    "passes": 3,
+    "improvements_count": 2,
+    "improvements_log": [
+      {
+        "pass": 1,
+        "window_size": 4,
+        "start_idx": 14,
+        "gain": 17,
+        "cost": 3671,
+        "time": 0.12802312709391117
+      },
+      {
+        "pass": 2,
+        "window_size": 4,
+        "start_idx": 10,
+        "gain": 1,
+        "cost": 3670,
+        "time": 0.02154101012274623
+      }
+    ],
+    "final_route": [
+      0,
+      3,
+      38,
+      16,
+      76,
+      83,
+      113,
+      43,
+      90,
+      96,
+      73,
+      69,
+      45,
+      125,
+      74,
+      36,
+      13,
+      134,
+      72,
+      59,
+      100,
+      6,
+      5
+    ]
+  },
+  "gain": 18,
+  "finished_unix": 1794145742.419531,
+  "total_seconds": 1813.0836714580655,
+  "max_rss_worker_kb": 100828,
+  "max_rss_alns_kb": 911128,
+  "log_hashes": {
+    "logs/rd400.V140.seed20261149.alns.stdout": "8a8a73147c7c4e464849ba9cf98aeef4a4ea8f278d6761edb59a2a8fb311b71c",
+    "logs/rd400.V140.seed20261149.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "Data and code for: Exact window re-optimization of Adaptive Large Neighborhood Search tours for the Covering Tour Problem"
+type: dataset
+authors:
+  - family-names: "Clímaco"
+    given-names: "Glaubos"
+    affiliation: "Universidade Federal do Maranhão (UFMA), Brazil"
+    email: "francisco.glaubos@ufma.br"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/glaubosclimaco/REPO-NAME-TODO"
+version: "TODO"
+date-released: "TODO"

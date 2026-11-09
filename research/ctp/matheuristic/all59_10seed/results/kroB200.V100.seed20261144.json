@@ -1,0 +1,94 @@
+{
+  "job": {
+    "case": "kroB200.V100",
+    "seed": 20261144,
+    "key": "kroB200.V100.seed20261144"
+  },
+  "status": "COMPLETED",
+  "started_unix": 1793915493.1897001,
+  "cpu": 2,
+  "protocol_sha256": "d12fc0c15f81dbbaecf6c082405bfc4653359d284ae45727e73ab6ab2d9798af",
+  "preparation_seconds": 0.004082508850842714,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261144,
+    "iterations": 30000,
+    "complete": true,
+    "cost": 9988,
+    "selector_calls": 13,
+    "labels": 231098,
+    "wall_seconds": 51.5363,
+    "removal_calls": [
+      10018,
+      10191,
+      9791
+    ],
+    "insertion_calls": [
+      10042,
+      9856,
+      10102
+    ],
+    "route": [
+      0,
+      97,
+      2,
+      84,
+      39,
+      68,
+      64,
+      36,
+      53,
+      54,
+      76,
+      95,
+      62,
+      81,
+      32,
+      88,
+      59,
+      93,
+      89
+    ]
+  },
+  "alns_wrapper_seconds": 51.53863359987736,
+  "polishing": {
+    "initial_cost": 9988,
+    "final_cost": 9988,
+    "total_gain": 0,
+    "elapsed_seconds": 3.8627358798403293,
+    "passes": 1,
+    "improvements_count": 0,
+    "improvements_log": [],
+    "final_route": [
+      0,
+      97,
+      2,
+      84,
+      39,
+      68,
+      64,
+      36,
+      53,
+      54,
+      76,
+      95,
+      62,
+      81,
+      32,
+      88,
+      59,
+      93,
+      89
+    ]
+  },
+  "gain": 0,
+  "finished_unix": 1793915548.5958385,
+  "total_seconds": 55.406139803119004,
+  "max_rss_worker_kb": 80860,
+  "max_rss_alns_kb": 41148,
+  "log_hashes": {
+    "logs/kroB200.V100.seed20261144.alns.stdout": "3e8a363e48bc9a7a760f16de113869c6009630f7a0ecf54850d576fbf022e1b3",
+    "logs/kroB200.V100.seed20261144.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

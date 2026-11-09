@@ -1,0 +1,14 @@
+{
+  "key": "kroB200.V75.seed20261149",
+  "case": "kroB200.V75",
+  "seed": 20261149,
+  "alns_30k_cost": 10188,
+  "alns_30k_seconds": 23.158052016980946,
+  "hybrid_cost": 10008,
+  "hybrid_seconds": 34.78355798800476,
+  "hybrid_gain_vs_30k": 180,
+  "matched_iters": 45060,
+  "matched_alns_cost": 10188,
+  "matched_alns_seconds": 32.946727064903826,
+  "hybrid_gain_vs_matched": 180
+}

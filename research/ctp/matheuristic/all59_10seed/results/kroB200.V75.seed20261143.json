@@ -1,0 +1,104 @@
+{
+  "job": {
+    "case": "kroB200.V75",
+    "seed": 20261143,
+    "key": "kroB200.V75.seed20261143"
+  },
+  "status": "COMPLETED",
+  "started_unix": 1793913867.4153109,
+  "cpu": 2,
+  "protocol_sha256": "d12fc0c15f81dbbaecf6c082405bfc4653359d284ae45727e73ab6ab2d9798af",
+  "preparation_seconds": 0.011415221029892564,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261143,
+    "iterations": 30000,
+    "complete": true,
+    "cost": 10188,
+    "selector_calls": 12,
+    "labels": 137427,
+    "wall_seconds": 23.7619,
+    "removal_calls": [
+      9990,
+      10097,
+      9913
+    ],
+    "insertion_calls": [
+      9934,
+      10023,
+      10043
+    ],
+    "route": [
+      0,
+      20,
+      39,
+      68,
+      64,
+      53,
+      49,
+      54,
+      35,
+      62,
+      32,
+      73,
+      60,
+      31,
+      2
+    ]
+  },
+  "alns_wrapper_seconds": 23.766939990920946,
+  "polishing": {
+    "initial_cost": 10188,
+    "final_cost": 10008,
+    "total_gain": 180,
+    "elapsed_seconds": 11.559464955935255,
+    "passes": 3,
+    "improvements_count": 2,
+    "improvements_log": [
+      {
+        "pass": 1,
+        "window_size": 6,
+        "start_idx": 13,
+        "gain": 13,
+        "cost": 10175,
+        "time": 0.025980782927945256
+      },
+      {
+        "pass": 2,
+        "window_size": 4,
+        "start_idx": 0,
+        "gain": 167,
+        "cost": 10008,
+        "time": 0.6027142049279064
+      }
+    ],
+    "final_route": [
+      0,
+      28,
+      2,
+      9,
+      39,
+      74,
+      64,
+      53,
+      49,
+      54,
+      35,
+      62,
+      32,
+      73,
+      60,
+      70
+    ]
+  },
+  "gain": 180,
+  "finished_unix": 1793913902.753754,
+  "total_seconds": 35.33844473701902,
+  "max_rss_worker_kb": 91044,
+  "max_rss_alns_kb": 40968,
+  "log_hashes": {
+    "logs/kroB200.V75.seed20261143.alns.stdout": "79ca93e20062f58f235ed342cb2a52c50d5d26a167b5b3d5126daa91d6a7bd55",
+    "logs/kroB200.V75.seed20261143.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

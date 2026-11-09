@@ -1,0 +1,14 @@
+{
+  "key": "kroA150.V25.seed20261145",
+  "case": "kroA150.V25",
+  "seed": 20261145,
+  "alns_30k_cost": 8050,
+  "alns_30k_seconds": 0.92442224198021,
+  "hybrid_cost": 8050,
+  "hybrid_seconds": 5.60309520107694,
+  "hybrid_gain_vs_30k": 0,
+  "matched_iters": 181836,
+  "matched_alns_cost": 8050,
+  "matched_alns_seconds": 5.488336064852774,
+  "hybrid_gain_vs_matched": 0
+}

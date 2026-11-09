@@ -1,0 +1,32 @@
+[
+  {
+    "name": "kroC100",
+    "url": "https://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/kroC100.tsp.gz",
+    "status": "DOWNLOADED",
+    "sha256": "aef750b8051e011df3b0fae21f4d71273cf129bcf7f2a9b697c2406bcaec68d2"
+  },
+  {
+    "name": "kroA150",
+    "url": "https://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/kroA150.tsp.gz",
+    "status": "DOWNLOADED",
+    "sha256": "acfeddc0cf4dd78ae69dd0c379b52b4031a4a8daa61a0cab3f46c1e3e2a616ba"
+  },
+  {
+    "name": "kroB150",
+    "url": "https://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/kroB150.tsp.gz",
+    "status": "DOWNLOADED",
+    "sha256": "f6c573fc55f60d90573f09cee01c0c6e09eef87f1315ac8fb6cd2719a1cfd468"
+  },
+  {
+    "name": "kroA200",
+    "url": "https://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/kroA200.tsp.gz",
+    "status": "DOWNLOADED",
+    "sha256": "fd1f7640e823286826796bfccd103787c25f0b52e7275fae7eabf286303c0cbe"
+  },
+  {
+    "name": "rd400",
+    "url": "https://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/rd400.tsp.gz",
+    "status": "DOWNLOADED",
+    "sha256": "1f2543164d67d93eaea4537f3033a94fa8f14d105f3caf8a817abaddcd346693"
+  }
+]

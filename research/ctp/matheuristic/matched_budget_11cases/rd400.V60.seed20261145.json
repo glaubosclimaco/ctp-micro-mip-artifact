@@ -1,0 +1,14 @@
+{
+  "key": "rd400.V60.seed20261145",
+  "case": "rd400.V60",
+  "seed": 20261145,
+  "alns_30k_cost": 2621,
+  "alns_30k_seconds": 13.733551868004724,
+  "hybrid_cost": 2621,
+  "hybrid_seconds": 14.67047463497147,
+  "hybrid_gain_vs_30k": 0,
+  "matched_iters": 32047,
+  "matched_alns_cost": 2621,
+  "matched_alns_seconds": 14.037331336876377,
+  "hybrid_gain_vs_matched": 0
+}

@@ -1,0 +1,70 @@
+{
+  "job": {
+    "case": "pcb442.V221",
+    "seed": 20261148,
+    "key": "pcb442.V221.seed20261148"
+  },
+  "status": "COMPLETED",
+  "started_unix": 1794157109.7679505,
+  "cpu": 2,
+  "protocol_sha256": "ac6532a0cad57a9769204e37a37388dbb7a16ee15a6e85bef79c1371ef456454",
+  "preparation_seconds": 0.017296084202826023,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261148,
+    "iterations": 30000,
+    "complete": true,
+    "cost": 6985,
+    "selector_calls": 4,
+    "labels": 120126,
+    "wall_seconds": 542.689,
+    "removal_calls": [
+      10005,
+      10364,
+      9631
+    ],
+    "insertion_calls": [
+      9768,
+      10289,
+      9943
+    ],
+    "route": [
+      0,
+      69,
+      128,
+      218,
+      217,
+      214,
+      210
+    ]
+  },
+  "alns_wrapper_seconds": 542.6926652761176,
+  "polishing": {
+    "initial_cost": 6985,
+    "final_cost": 6985,
+    "total_gain": 0,
+    "elapsed_seconds": 4.286882937187329,
+    "passes": 1,
+    "improvements_count": 0,
+    "improvements_log": [],
+    "final_route": [
+      0,
+      69,
+      128,
+      218,
+      217,
+      214,
+      210
+    ]
+  },
+  "gain": 0,
+  "finished_unix": 1794157656.7653668,
+  "total_seconds": 546.9974178161938,
+  "max_rss_worker_kb": 82796,
+  "max_rss_alns_kb": 50864,
+  "log_hashes": {
+    "logs/pcb442.V221.seed20261148.alns.stdout": "f7c00aca7a1144c437412deeb0499f75059be3f2cd04b83ec8a16fc60c9e681c",
+    "logs/pcb442.V221.seed20261148.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

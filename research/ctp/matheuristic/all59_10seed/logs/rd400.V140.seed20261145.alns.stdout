@@ -1,0 +1,2 @@
+{"event":"initial","cost":4346}
+{"event":"final","mode":"M","seed":20261145,"iterations":0,"complete":false,"cost":4346,"selector_calls":1,"labels":1456739,"wall_seconds":1800.3,"removal_calls":[0,0,0],"insertion_calls":[0,0,0],"route":[0,8,119,41,5,46,31,10,115,72,13,81,98,26,77,133,139,17,49,82,90,7,127,43,37,78,101,126,70,40,113,83,53]}

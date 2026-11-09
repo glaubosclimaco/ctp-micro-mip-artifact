@@ -1,0 +1,64 @@
+{
+  "job": {
+    "case": "pr264.V66",
+    "seed": 20261143,
+    "key": "pr264.V66.seed20261143"
+  },
+  "status": "COMPLETED",
+  "started_unix": 1793913130.717321,
+  "cpu": 2,
+  "protocol_sha256": "d12fc0c15f81dbbaecf6c082405bfc4653359d284ae45727e73ab6ab2d9798af",
+  "preparation_seconds": 0.004963940009474754,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261143,
+    "iterations": 30000,
+    "complete": true,
+    "cost": 5280,
+    "selector_calls": 1,
+    "labels": 116,
+    "wall_seconds": 11.9633,
+    "removal_calls": [
+      10075,
+      10026,
+      9899
+    ],
+    "insertion_calls": [
+      10012,
+      10111,
+      9877
+    ],
+    "route": [
+      0,
+      37,
+      12,
+      11
+    ]
+  },
+  "alns_wrapper_seconds": 11.964460501912981,
+  "polishing": {
+    "initial_cost": 5280,
+    "final_cost": 5280,
+    "total_gain": 0,
+    "elapsed_seconds": 1.9657891243696213e-06,
+    "passes": 1,
+    "improvements_count": 0,
+    "improvements_log": [],
+    "final_route": [
+      0,
+      37,
+      12,
+      11
+    ]
+  },
+  "gain": 0,
+  "finished_unix": 1793913142.6872768,
+  "total_seconds": 11.969956284854561,
+  "max_rss_worker_kb": 41748,
+  "max_rss_alns_kb": 41748,
+  "log_hashes": {
+    "logs/pr264.V66.seed20261143.alns.stdout": "b581c9556567f3897843816ea1a399eb2a1f83083ce40f4466f1b0ae853b0e77",
+    "logs/pr264.V66.seed20261143.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

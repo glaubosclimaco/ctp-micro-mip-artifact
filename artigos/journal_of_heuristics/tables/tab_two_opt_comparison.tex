@@ -1,0 +1,29 @@
+\begin{table}[t]
+\centering
+\caption{2-Opt versus the Micro-MIP polisher on the 46 routes that the polisher improved (selected by that criterion; includes the 8 censored rd400.V140 runs). Columns 2-Opt, Polisher and Cascade (2-Opt then polisher) give the total cost gain; W-T-L: polisher wins, ties and losses against 2-Opt.}
+\label{tab:two_opt_comparison}
+\footnotesize\setlength{\tabcolsep}{4pt}
+\begin{tabular}{l c ccc c}
+\toprule
+\textbf{Instance} & \textbf{Routes} & \textbf{2-Opt} & \textbf{Polisher} & \textbf{Cascade} & \textbf{W-T-L} \\
+\midrule
+ali535.V188 & 1 & 0 & \textbf{2} & 2 & 1-0-0 \\
+ali535.V81 & 1 & 0 & \textbf{14} & 14 & 1-0-0 \\
+kroA100.V50 & 5 & 0 & \textbf{145} & 145 & 5-0-0 \\
+kroA150.V25 & 2 & 200 & \textbf{178} & 200 & 0-1-1 \\
+kroA150.V50 & 4 & 0 & \textbf{116} & 116 & 4-0-0 \\
+kroA150.V75 & 3 & 0 & \textbf{54} & 54 & 3-0-0 \\
+kroB100.V25 & 3 & 0 & \textbf{153} & 153 & 3-0-0 \\
+kroB100.V50 & 1 & 0 & \textbf{4} & 4 & 1-0-0 \\
+kroB200.V100 & 5 & 396 & \textbf{450} & 537 & 2-3-0 \\
+kroB200.V25 & 1 & 0 & \textbf{51} & 51 & 1-0-0 \\
+kroB200.V50 & 1 & 0 & \textbf{10} & 10 & 1-0-0 \\
+kroB200.V75 & 4 & 8 & \textbf{728} & 728 & 4-0-0 \\
+rd400.V100 & 6 & 24 & \textbf{105} & 105 & 4-2-0 \\
+rd400.V140 & 8 & 566 & \textbf{1092} & 1388 & 8-0-0 \\
+rd400.V60 & 1 & 0 & \textbf{7} & 7 & 1-0-0 \\
+\midrule
+\textbf{Total} & \textbf{46} & \textbf{1194} & \textbf{3109} & \textbf{3514} & \textbf{39-6-1} \\
+\bottomrule
+\end{tabular}
+\end{table}

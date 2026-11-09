@@ -1,0 +1,155 @@
+{
+  "job": {
+    "case": "rd400.V140",
+    "seed": 20261147,
+    "key": "rd400.V140.seed20261147"
+  },
+  "status": "CENSORED",
+  "started_unix": 1794142132.6282134,
+  "cpu": 2,
+  "protocol_sha256": "ac6532a0cad57a9769204e37a37388dbb7a16ee15a6e85bef79c1371ef456454",
+  "preparation_seconds": 0.012719874968752265,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261147,
+    "iterations": 0,
+    "complete": false,
+    "cost": 4320,
+    "selector_calls": 1,
+    "labels": 2000000,
+    "wall_seconds": 1552.65,
+    "removal_calls": [
+      0,
+      0,
+      0
+    ],
+    "insertion_calls": [
+      0,
+      0,
+      0
+    ],
+    "route": [
+      0,
+      3,
+      12,
+      5,
+      47,
+      61,
+      59,
+      134,
+      13,
+      26,
+      45,
+      69,
+      73,
+      82,
+      83,
+      113,
+      86,
+      87,
+      50,
+      89,
+      37,
+      39,
+      108,
+      111,
+      110,
+      81
+    ]
+  },
+  "alns_wrapper_seconds": 1552.72185141081,
+  "polishing": {
+    "initial_cost": 4320,
+    "final_cost": 4126,
+    "total_gain": 194,
+    "elapsed_seconds": 0.9318502300884575,
+    "passes": 3,
+    "improvements_count": 6,
+    "improvements_log": [
+      {
+        "pass": 1,
+        "window_size": 4,
+        "start_idx": 0,
+        "gain": 23,
+        "cost": 4297,
+        "time": 0.01960117695853114
+      },
+      {
+        "pass": 1,
+        "window_size": 6,
+        "start_idx": 0,
+        "gain": 39,
+        "cost": 4258,
+        "time": 0.23643277399241924
+      },
+      {
+        "pass": 2,
+        "window_size": 4,
+        "start_idx": 2,
+        "gain": 10,
+        "cost": 4248,
+        "time": 0.013335082912817597
+      },
+      {
+        "pass": 2,
+        "window_size": 6,
+        "start_idx": 7,
+        "gain": 3,
+        "cost": 4245,
+        "time": 0.015906871063634753
+      },
+      {
+        "pass": 3,
+        "window_size": 4,
+        "start_idx": 11,
+        "gain": 115,
+        "cost": 4130,
+        "time": 0.015659898053854704
+      },
+      {
+        "pass": 3,
+        "window_size": 6,
+        "start_idx": 10,
+        "gain": 4,
+        "cost": 4126,
+        "time": 0.014774548122659326
+      }
+    ],
+    "final_route": [
+      0,
+      116,
+      41,
+      5,
+      6,
+      100,
+      59,
+      134,
+      13,
+      26,
+      45,
+      69,
+      82,
+      83,
+      86,
+      50,
+      89,
+      37,
+      39,
+      108,
+      111,
+      110,
+      81,
+      3
+    ]
+  },
+  "gain": 194,
+  "finished_unix": 1794143686.2953913,
+  "total_seconds": 1553.6671792468987,
+  "max_rss_worker_kb": 70700,
+  "max_rss_alns_kb": 1274856,
+  "log_hashes": {
+    "logs/rd400.V140.seed20261147.alns.stdout": "8dc110b62c9d0dbc4834099ca16f0621d3adc4fe56897db233365608f84cafbd",
+    "logs/rd400.V140.seed20261147.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

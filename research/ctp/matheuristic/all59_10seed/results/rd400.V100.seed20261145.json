@@ -1,0 +1,105 @@
+{
+  "job": {
+    "case": "rd400.V100",
+    "seed": 20261145,
+    "key": "rd400.V100.seed20261145"
+  },
+  "status": "COMPLETED",
+  "started_unix": 1793929722.3568296,
+  "cpu": 2,
+  "protocol_sha256": "d12fc0c15f81dbbaecf6c082405bfc4653359d284ae45727e73ab6ab2d9798af",
+  "preparation_seconds": 0.011014513205736876,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261145,
+    "iterations": 30000,
+    "complete": true,
+    "cost": 3866,
+    "selector_calls": 11,
+    "labels": 6579303,
+    "wall_seconds": 8686.69,
+    "removal_calls": [
+      9797,
+      10097,
+      10106
+    ],
+    "insertion_calls": [
+      9903,
+      9754,
+      10343
+    ],
+    "route": [
+      0,
+      91,
+      59,
+      92,
+      13,
+      98,
+      26,
+      45,
+      69,
+      82,
+      43,
+      78,
+      83,
+      76,
+      66,
+      16,
+      5,
+      6,
+      67,
+      3
+    ]
+  },
+  "alns_wrapper_seconds": 8686.767010926036,
+  "polishing": {
+    "initial_cost": 3866,
+    "final_cost": 3854,
+    "total_gain": 12,
+    "elapsed_seconds": 12.413509089965373,
+    "passes": 2,
+    "improvements_count": 1,
+    "improvements_log": [
+      {
+        "pass": 1,
+        "window_size": 4,
+        "start_idx": 17,
+        "gain": 12,
+        "cost": 3854,
+        "time": 0.07123148301616311
+      }
+    ],
+    "final_route": [
+      0,
+      3,
+      91,
+      59,
+      92,
+      13,
+      98,
+      26,
+      45,
+      69,
+      82,
+      43,
+      78,
+      83,
+      76,
+      66,
+      16,
+      5,
+      6,
+      67
+    ]
+  },
+  "gain": 12,
+  "finished_unix": 1793938421.5491536,
+  "total_seconds": 8699.192325455835,
+  "max_rss_worker_kb": 83488,
+  "max_rss_alns_kb": 1404692,
+  "log_hashes": {
+    "logs/rd400.V100.seed20261145.alns.stdout": "c878b8295e24fb4868193ae05f0bfb3e5419df7a30f9e8e70c6b181abf52dee4",
+    "logs/rd400.V100.seed20261145.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

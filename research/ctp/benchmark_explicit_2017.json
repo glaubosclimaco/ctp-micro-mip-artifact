@@ -1,0 +1,482 @@
+{
+  "status": "TRANSCRIPTION_REQUIRES_FINAL_VISUAL_AUDIT",
+  "announced_unique_cases": 60,
+  "explicit_unique_cases": 59,
+  "announced_benchmark2": 44,
+  "explicit_benchmark2": 43,
+  "unresolved_case": "Tables list only three rd400 sizes (60,100,140); no silent invention of a fourth. Investigate missing case with author data.",
+  "cases": [
+    {
+      "tsplib": "ali535",
+      "visitable": 81,
+      "covered": 454,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "ali535",
+      "visitable": 135,
+      "covered": 400,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "ali535",
+      "visitable": 188,
+      "covered": 347,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "ali535",
+      "visitable": 268,
+      "covered": 267,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "att532",
+      "visitable": 81,
+      "covered": 451,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "att532",
+      "visitable": 134,
+      "covered": 398,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "att532",
+      "visitable": 187,
+      "covered": 345,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "att532",
+      "visitable": 266,
+      "covered": 266,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "d493",
+      "visitable": 75,
+      "covered": 418,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "d493",
+      "visitable": 124,
+      "covered": 369,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "d493",
+      "visitable": 173,
+      "covered": 320,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "d493",
+      "visitable": 247,
+      "covered": 246,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "kroA100",
+      "visitable": 25,
+      "covered": 75,
+      "reported_optimum": 7985,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroA100",
+      "visitable": 50,
+      "covered": 50,
+      "reported_optimum": 8608,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroA150",
+      "visitable": 25,
+      "covered": 125,
+      "reported_optimum": 8050,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroA150",
+      "visitable": 50,
+      "covered": 100,
+      "reported_optimum": 9623,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroA150",
+      "visitable": 75,
+      "covered": 75,
+      "reported_optimum": 9971,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroA200",
+      "visitable": 25,
+      "covered": 175,
+      "reported_optimum": 6165,
+      "benchmark1": true,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "kroA200",
+      "visitable": 50,
+      "covered": 150,
+      "reported_optimum": 8273,
+      "benchmark1": true,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "kroA200",
+      "visitable": 75,
+      "covered": 125,
+      "reported_optimum": 8499,
+      "benchmark1": true,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "kroA200",
+      "visitable": 100,
+      "covered": 100,
+      "reported_optimum": 8355,
+      "benchmark1": true,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "kroB100",
+      "visitable": 25,
+      "covered": 75,
+      "reported_optimum": 6449,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroB100",
+      "visitable": 50,
+      "covered": 50,
+      "reported_optimum": 8043,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroB150",
+      "visitable": 25,
+      "covered": 125,
+      "reported_optimum": 6165,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroB150",
+      "visitable": 50,
+      "covered": 100,
+      "reported_optimum": 7818,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroB150",
+      "visitable": 75,
+      "covered": 75,
+      "reported_optimum": 7434,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroB200",
+      "visitable": 25,
+      "covered": 175,
+      "reported_optimum": 6450,
+      "benchmark1": true,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "kroB200",
+      "visitable": 50,
+      "covered": 150,
+      "reported_optimum": 8171,
+      "benchmark1": true,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "kroB200",
+      "visitable": 75,
+      "covered": 125,
+      "reported_optimum": 10007,
+      "benchmark1": true,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "kroB200",
+      "visitable": 100,
+      "covered": 100,
+      "reported_optimum": 9988,
+      "benchmark1": true,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "kroC100",
+      "visitable": 25,
+      "covered": 75,
+      "reported_optimum": 6161,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroC100",
+      "visitable": 50,
+      "covered": 50,
+      "reported_optimum": 7942,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroD100",
+      "visitable": 25,
+      "covered": 75,
+      "reported_optimum": 6651,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroD100",
+      "visitable": 50,
+      "covered": 50,
+      "reported_optimum": 8411,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroE100",
+      "visitable": 25,
+      "covered": 75,
+      "reported_optimum": 7417,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "kroE100",
+      "visitable": 50,
+      "covered": 50,
+      "reported_optimum": 8493,
+      "benchmark1": true,
+      "benchmark2": false
+    },
+    {
+      "tsplib": "lin318",
+      "visitable": 48,
+      "covered": 270,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "lin318",
+      "visitable": 80,
+      "covered": 238,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "lin318",
+      "visitable": 112,
+      "covered": 206,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "lin318",
+      "visitable": 159,
+      "covered": 159,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "pcb442",
+      "visitable": 67,
+      "covered": 375,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "pcb442",
+      "visitable": 111,
+      "covered": 331,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "pcb442",
+      "visitable": 155,
+      "covered": 287,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "pcb442",
+      "visitable": 221,
+      "covered": 221,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "pr264",
+      "visitable": 40,
+      "covered": 224,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "pr264",
+      "visitable": 66,
+      "covered": 198,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "pr264",
+      "visitable": 92,
+      "covered": 172,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "pr264",
+      "visitable": 132,
+      "covered": 132,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "pr299",
+      "visitable": 45,
+      "covered": 254,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "pr299",
+      "visitable": 75,
+      "covered": 224,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "pr299",
+      "visitable": 105,
+      "covered": 194,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "pr299",
+      "visitable": 150,
+      "covered": 149,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "rat575",
+      "visitable": 87,
+      "covered": 488,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "rat575",
+      "visitable": 145,
+      "covered": 430,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "rat575",
+      "visitable": 202,
+      "covered": 373,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "rat575",
+      "visitable": 288,
+      "covered": 287,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "rd400",
+      "visitable": 60,
+      "covered": 340,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "rd400",
+      "visitable": 100,
+      "covered": 300,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    },
+    {
+      "tsplib": "rd400",
+      "visitable": 140,
+      "covered": 260,
+      "reported_optimum": null,
+      "benchmark1": false,
+      "benchmark2": true
+    }
+  ]
+}

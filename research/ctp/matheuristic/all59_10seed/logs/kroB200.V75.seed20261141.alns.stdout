@@ -1,0 +1,9 @@
+{"event":"initial","cost":10008}
+{"event":"checkpoint","iteration":1000,"cost":10008,"seconds":11.6069}
+{"event":"checkpoint","iteration":5000,"cost":10008,"seconds":15.1829}
+{"event":"checkpoint","iteration":10000,"cost":10008,"seconds":18.9909}
+{"event":"checkpoint","iteration":15000,"cost":10008,"seconds":22.8184}
+{"event":"checkpoint","iteration":20000,"cost":10008,"seconds":26.6467}
+{"event":"checkpoint","iteration":25000,"cost":10008,"seconds":30.3825}
+{"event":"checkpoint","iteration":30000,"cost":10008,"seconds":34.2161}
+{"event":"final","mode":"M","seed":20261141,"iterations":30000,"complete":true,"cost":10008,"selector_calls":14,"labels":342553,"wall_seconds":34.2161,"removal_calls":[9931,10131,9938],"insertion_calls":[10064,9833,10103],"route":[0,70,60,73,32,62,35,54,49,53,64,74,39,9,2,28]}

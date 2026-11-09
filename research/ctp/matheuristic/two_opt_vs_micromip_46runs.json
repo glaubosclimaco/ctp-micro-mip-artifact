@@ -1,0 +1,462 @@
+[
+  {
+    "key": "ali535.V188.seed20261143",
+    "alns_cost": 45452,
+    "two_opt_cost": 45452,
+    "two_opt_gain": 0,
+    "hybrid_cost": 45450,
+    "hybrid_gain": 2,
+    "cascade_cost": 45450,
+    "cascade_gain": 2
+  },
+  {
+    "key": "ali535.V81.seed20261140",
+    "alns_cost": 42657,
+    "two_opt_cost": 42657,
+    "two_opt_gain": 0,
+    "hybrid_cost": 42643,
+    "hybrid_gain": 14,
+    "cascade_cost": 42643,
+    "cascade_gain": 14
+  },
+  {
+    "key": "kroA100.V50.seed20261144",
+    "alns_cost": 8637,
+    "two_opt_cost": 8637,
+    "two_opt_gain": 0,
+    "hybrid_cost": 8608,
+    "hybrid_gain": 29,
+    "cascade_cost": 8608,
+    "cascade_gain": 29
+  },
+  {
+    "key": "kroA100.V50.seed20261145",
+    "alns_cost": 8637,
+    "two_opt_cost": 8637,
+    "two_opt_gain": 0,
+    "hybrid_cost": 8608,
+    "hybrid_gain": 29,
+    "cascade_cost": 8608,
+    "cascade_gain": 29
+  },
+  {
+    "key": "kroA100.V50.seed20261146",
+    "alns_cost": 8637,
+    "two_opt_cost": 8637,
+    "two_opt_gain": 0,
+    "hybrid_cost": 8608,
+    "hybrid_gain": 29,
+    "cascade_cost": 8608,
+    "cascade_gain": 29
+  },
+  {
+    "key": "kroA100.V50.seed20261147",
+    "alns_cost": 8637,
+    "two_opt_cost": 8637,
+    "two_opt_gain": 0,
+    "hybrid_cost": 8608,
+    "hybrid_gain": 29,
+    "cascade_cost": 8608,
+    "cascade_gain": 29
+  },
+  {
+    "key": "kroA100.V50.seed20261148",
+    "alns_cost": 8637,
+    "two_opt_cost": 8637,
+    "two_opt_gain": 0,
+    "hybrid_cost": 8608,
+    "hybrid_gain": 29,
+    "cascade_cost": 8608,
+    "cascade_gain": 29
+  },
+  {
+    "key": "kroA150.V25.seed20261142",
+    "alns_cost": 8161,
+    "two_opt_cost": 8072,
+    "two_opt_gain": 89,
+    "hybrid_cost": 8072,
+    "hybrid_gain": 89,
+    "cascade_cost": 8072,
+    "cascade_gain": 89
+  },
+  {
+    "key": "kroA150.V25.seed20261147",
+    "alns_cost": 8161,
+    "two_opt_cost": 8050,
+    "two_opt_gain": 111,
+    "hybrid_cost": 8072,
+    "hybrid_gain": 89,
+    "cascade_cost": 8050,
+    "cascade_gain": 111
+  },
+  {
+    "key": "kroA150.V50.seed20261143",
+    "alns_cost": 9669,
+    "two_opt_cost": 9669,
+    "two_opt_gain": 0,
+    "hybrid_cost": 9640,
+    "hybrid_gain": 29,
+    "cascade_cost": 9640,
+    "cascade_gain": 29
+  },
+  {
+    "key": "kroA150.V50.seed20261144",
+    "alns_cost": 9669,
+    "two_opt_cost": 9669,
+    "two_opt_gain": 0,
+    "hybrid_cost": 9640,
+    "hybrid_gain": 29,
+    "cascade_cost": 9640,
+    "cascade_gain": 29
+  },
+  {
+    "key": "kroA150.V50.seed20261145",
+    "alns_cost": 9669,
+    "two_opt_cost": 9669,
+    "two_opt_gain": 0,
+    "hybrid_cost": 9640,
+    "hybrid_gain": 29,
+    "cascade_cost": 9640,
+    "cascade_gain": 29
+  },
+  {
+    "key": "kroA150.V50.seed20261148",
+    "alns_cost": 9669,
+    "two_opt_cost": 9669,
+    "two_opt_gain": 0,
+    "hybrid_cost": 9640,
+    "hybrid_gain": 29,
+    "cascade_cost": 9640,
+    "cascade_gain": 29
+  },
+  {
+    "key": "kroA150.V75.seed20261140",
+    "alns_cost": 10050,
+    "two_opt_cost": 10050,
+    "two_opt_gain": 0,
+    "hybrid_cost": 10030,
+    "hybrid_gain": 20,
+    "cascade_cost": 10030,
+    "cascade_gain": 20
+  },
+  {
+    "key": "kroA150.V75.seed20261148",
+    "alns_cost": 10047,
+    "two_opt_cost": 10047,
+    "two_opt_gain": 0,
+    "hybrid_cost": 10030,
+    "hybrid_gain": 17,
+    "cascade_cost": 10030,
+    "cascade_gain": 17
+  },
+  {
+    "key": "kroA150.V75.seed20261149",
+    "alns_cost": 10047,
+    "two_opt_cost": 10047,
+    "two_opt_gain": 0,
+    "hybrid_cost": 10030,
+    "hybrid_gain": 17,
+    "cascade_cost": 10030,
+    "cascade_gain": 17
+  },
+  {
+    "key": "kroB100.V25.seed20261144",
+    "alns_cost": 6501,
+    "two_opt_cost": 6501,
+    "two_opt_gain": 0,
+    "hybrid_cost": 6450,
+    "hybrid_gain": 51,
+    "cascade_cost": 6450,
+    "cascade_gain": 51
+  },
+  {
+    "key": "kroB100.V25.seed20261145",
+    "alns_cost": 6501,
+    "two_opt_cost": 6501,
+    "two_opt_gain": 0,
+    "hybrid_cost": 6450,
+    "hybrid_gain": 51,
+    "cascade_cost": 6450,
+    "cascade_gain": 51
+  },
+  {
+    "key": "kroB100.V25.seed20261146",
+    "alns_cost": 6501,
+    "two_opt_cost": 6501,
+    "two_opt_gain": 0,
+    "hybrid_cost": 6450,
+    "hybrid_gain": 51,
+    "cascade_cost": 6450,
+    "cascade_gain": 51
+  },
+  {
+    "key": "kroB100.V50.seed20261149",
+    "alns_cost": 8047,
+    "two_opt_cost": 8047,
+    "two_opt_gain": 0,
+    "hybrid_cost": 8043,
+    "hybrid_gain": 4,
+    "cascade_cost": 8043,
+    "cascade_gain": 4
+  },
+  {
+    "key": "kroB200.V100.seed20261140",
+    "alns_cost": 10087,
+    "two_opt_cost": 9988,
+    "two_opt_gain": 99,
+    "hybrid_cost": 9988,
+    "hybrid_gain": 99,
+    "cascade_cost": 9988,
+    "cascade_gain": 99
+  },
+  {
+    "key": "kroB200.V100.seed20261141",
+    "alns_cost": 10213,
+    "two_opt_cost": 10114,
+    "two_opt_gain": 99,
+    "hybrid_cost": 10075,
+    "hybrid_gain": 138,
+    "cascade_cost": 9988,
+    "cascade_gain": 225
+  },
+  {
+    "key": "kroB200.V100.seed20261147",
+    "alns_cost": 10003,
+    "two_opt_cost": 10003,
+    "two_opt_gain": 0,
+    "hybrid_cost": 9988,
+    "hybrid_gain": 15,
+    "cascade_cost": 9988,
+    "cascade_gain": 15
+  },
+  {
+    "key": "kroB200.V100.seed20261148",
+    "alns_cost": 10087,
+    "two_opt_cost": 9988,
+    "two_opt_gain": 99,
+    "hybrid_cost": 9988,
+    "hybrid_gain": 99,
+    "cascade_cost": 9988,
+    "cascade_gain": 99
+  },
+  {
+    "key": "kroB200.V100.seed20261149",
+    "alns_cost": 10087,
+    "two_opt_cost": 9988,
+    "two_opt_gain": 99,
+    "hybrid_cost": 9988,
+    "hybrid_gain": 99,
+    "cascade_cost": 9988,
+    "cascade_gain": 99
+  },
+  {
+    "key": "kroB200.V25.seed20261144",
+    "alns_cost": 6501,
+    "two_opt_cost": 6501,
+    "two_opt_gain": 0,
+    "hybrid_cost": 6450,
+    "hybrid_gain": 51,
+    "cascade_cost": 6450,
+    "cascade_gain": 51
+  },
+  {
+    "key": "kroB200.V50.seed20261140",
+    "alns_cost": 8181,
+    "two_opt_cost": 8181,
+    "two_opt_gain": 0,
+    "hybrid_cost": 8171,
+    "hybrid_gain": 10,
+    "cascade_cost": 8171,
+    "cascade_gain": 10
+  },
+  {
+    "key": "kroB200.V75.seed20261142",
+    "alns_cost": 10188,
+    "two_opt_cost": 10188,
+    "two_opt_gain": 0,
+    "hybrid_cost": 10008,
+    "hybrid_gain": 180,
+    "cascade_cost": 10008,
+    "cascade_gain": 180
+  },
+  {
+    "key": "kroB200.V75.seed20261143",
+    "alns_cost": 10188,
+    "two_opt_cost": 10188,
+    "two_opt_gain": 0,
+    "hybrid_cost": 10008,
+    "hybrid_gain": 180,
+    "cascade_cost": 10008,
+    "cascade_gain": 180
+  },
+  {
+    "key": "kroB200.V75.seed20261147",
+    "alns_cost": 10196,
+    "two_opt_cost": 10188,
+    "two_opt_gain": 8,
+    "hybrid_cost": 10008,
+    "hybrid_gain": 188,
+    "cascade_cost": 10008,
+    "cascade_gain": 188
+  },
+  {
+    "key": "kroB200.V75.seed20261149",
+    "alns_cost": 10188,
+    "two_opt_cost": 10188,
+    "two_opt_gain": 0,
+    "hybrid_cost": 10008,
+    "hybrid_gain": 180,
+    "cascade_cost": 10008,
+    "cascade_gain": 180
+  },
+  {
+    "key": "rd400.V100.seed20261141",
+    "alns_cost": 3866,
+    "two_opt_cost": 3854,
+    "two_opt_gain": 12,
+    "hybrid_cost": 3854,
+    "hybrid_gain": 12,
+    "cascade_cost": 3854,
+    "cascade_gain": 12
+  },
+  {
+    "key": "rd400.V100.seed20261143",
+    "alns_cost": 3919,
+    "two_opt_cost": 3919,
+    "two_opt_gain": 0,
+    "hybrid_cost": 3896,
+    "hybrid_gain": 23,
+    "cascade_cost": 3896,
+    "cascade_gain": 23
+  },
+  {
+    "key": "rd400.V100.seed20261144",
+    "alns_cost": 3854,
+    "two_opt_cost": 3854,
+    "two_opt_gain": 0,
+    "hybrid_cost": 3849,
+    "hybrid_gain": 5,
+    "cascade_cost": 3849,
+    "cascade_gain": 5
+  },
+  {
+    "key": "rd400.V100.seed20261145",
+    "alns_cost": 3866,
+    "two_opt_cost": 3854,
+    "two_opt_gain": 12,
+    "hybrid_cost": 3854,
+    "hybrid_gain": 12,
+    "cascade_cost": 3854,
+    "cascade_gain": 12
+  },
+  {
+    "key": "rd400.V100.seed20261146",
+    "alns_cost": 3912,
+    "two_opt_cost": 3912,
+    "two_opt_gain": 0,
+    "hybrid_cost": 3864,
+    "hybrid_gain": 48,
+    "cascade_cost": 3864,
+    "cascade_gain": 48
+  },
+  {
+    "key": "rd400.V100.seed20261147",
+    "alns_cost": 3854,
+    "two_opt_cost": 3854,
+    "two_opt_gain": 0,
+    "hybrid_cost": 3849,
+    "hybrid_gain": 5,
+    "cascade_cost": 3849,
+    "cascade_gain": 5
+  },
+  {
+    "key": "rd400.V140.seed20261140",
+    "alns_cost": 4917,
+    "two_opt_cost": 4587,
+    "two_opt_gain": 330,
+    "hybrid_cost": 4513,
+    "hybrid_gain": 404,
+    "cascade_cost": 4475,
+    "cascade_gain": 442
+  },
+  {
+    "key": "rd400.V140.seed20261141",
+    "alns_cost": 3947,
+    "two_opt_cost": 3943,
+    "two_opt_gain": 4,
+    "hybrid_cost": 3862,
+    "hybrid_gain": 85,
+    "cascade_cost": 3892,
+    "cascade_gain": 55
+  },
+  {
+    "key": "rd400.V140.seed20261142",
+    "alns_cost": 5292,
+    "two_opt_cost": 5287,
+    "two_opt_gain": 5,
+    "hybrid_cost": 5231,
+    "hybrid_gain": 61,
+    "cascade_cost": 5226,
+    "cascade_gain": 66
+  },
+  {
+    "key": "rd400.V140.seed20261144",
+    "alns_cost": 3862,
+    "two_opt_cost": 3856,
+    "two_opt_gain": 6,
+    "hybrid_cost": 3822,
+    "hybrid_gain": 40,
+    "cascade_cost": 3809,
+    "cascade_gain": 53
+  },
+  {
+    "key": "rd400.V140.seed20261145",
+    "alns_cost": 4346,
+    "two_opt_cost": 4239,
+    "two_opt_gain": 107,
+    "hybrid_cost": 4090,
+    "hybrid_gain": 256,
+    "cascade_cost": 3983,
+    "cascade_gain": 363
+  },
+  {
+    "key": "rd400.V140.seed20261147",
+    "alns_cost": 4320,
+    "two_opt_cost": 4206,
+    "two_opt_gain": 114,
+    "hybrid_cost": 4126,
+    "hybrid_gain": 194,
+    "cascade_cost": 3963,
+    "cascade_gain": 357
+  },
+  {
+    "key": "rd400.V140.seed20261148",
+    "alns_cost": 3701,
+    "two_opt_cost": 3701,
+    "two_opt_gain": 0,
+    "hybrid_cost": 3667,
+    "hybrid_gain": 34,
+    "cascade_cost": 3667,
+    "cascade_gain": 34
+  },
+  {
+    "key": "rd400.V140.seed20261149",
+    "alns_cost": 3688,
+    "two_opt_cost": 3688,
+    "two_opt_gain": 0,
+    "hybrid_cost": 3670,
+    "hybrid_gain": 18,
+    "cascade_cost": 3670,
+    "cascade_gain": 18
+  },
+  {
+    "key": "rd400.V60.seed20261141",
+    "alns_cost": 2628,
+    "two_opt_cost": 2628,
+    "two_opt_gain": 0,
+    "hybrid_cost": 2621,
+    "hybrid_gain": 7,
+    "cascade_cost": 2621,
+    "cascade_gain": 7
+  }
+]

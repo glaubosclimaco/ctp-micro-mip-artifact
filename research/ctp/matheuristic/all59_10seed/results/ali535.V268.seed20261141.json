@@ -1,0 +1,76 @@
+{
+  "job": {
+    "case": "ali535.V268",
+    "seed": 20261141,
+    "key": "ali535.V268.seed20261141"
+  },
+  "status": "COMPLETED",
+  "started_unix": 1794163619.3206925,
+  "cpu": 0,
+  "protocol_sha256": "ac6532a0cad57a9769204e37a37388dbb7a16ee15a6e85bef79c1371ef456454",
+  "preparation_seconds": 0.037148813949897885,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261141,
+    "iterations": 30000,
+    "complete": true,
+    "cost": 49176,
+    "selector_calls": 15,
+    "labels": 556062,
+    "wall_seconds": 974.668,
+    "removal_calls": [
+      9853,
+      10231,
+      9916
+    ],
+    "insertion_calls": [
+      10061,
+      10180,
+      9759
+    ],
+    "route": [
+      0,
+      168,
+      76,
+      218,
+      162,
+      246,
+      172,
+      140,
+      91,
+      20
+    ]
+  },
+  "alns_wrapper_seconds": 974.6731589620467,
+  "polishing": {
+    "initial_cost": 49176,
+    "final_cost": 49176,
+    "total_gain": 0,
+    "elapsed_seconds": 5.702865801053122,
+    "passes": 1,
+    "improvements_count": 0,
+    "improvements_log": [],
+    "final_route": [
+      0,
+      168,
+      76,
+      218,
+      162,
+      246,
+      172,
+      140,
+      91,
+      20
+    ]
+  },
+  "gain": 0,
+  "finished_unix": 1794164599.73461,
+  "total_seconds": 980.4139191769063,
+  "max_rss_worker_kb": 80624,
+  "max_rss_alns_kb": 80024,
+  "log_hashes": {
+    "logs/ali535.V268.seed20261141.alns.stdout": "7747b28f5a7d20e7f2b993e51ef8ba1562da14e8ebe7d9236c4faf715810c862",
+    "logs/ali535.V268.seed20261141.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

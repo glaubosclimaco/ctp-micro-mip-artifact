@@ -1,0 +1,74 @@
+{
+  "job": {
+    "case": "rd400.V60",
+    "seed": 20261142,
+    "key": "rd400.V60.seed20261142"
+  },
+  "status": "COMPLETED",
+  "started_unix": 1793913035.3160386,
+  "cpu": 0,
+  "protocol_sha256": "d12fc0c15f81dbbaecf6c082405bfc4653359d284ae45727e73ab6ab2d9798af",
+  "preparation_seconds": 0.008741589030250907,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261142,
+    "iterations": 30000,
+    "complete": true,
+    "cost": 2621,
+    "selector_calls": 10,
+    "labels": 61678,
+    "wall_seconds": 13.4617,
+    "removal_calls": [
+      9999,
+      10047,
+      9954
+    ],
+    "insertion_calls": [
+      9716,
+      10107,
+      10177
+    ],
+    "route": [
+      0,
+      6,
+      1,
+      4,
+      36,
+      32,
+      7,
+      40,
+      38
+    ]
+  },
+  "alns_wrapper_seconds": 13.463425784837455,
+  "polishing": {
+    "initial_cost": 2621,
+    "final_cost": 2621,
+    "total_gain": 0,
+    "elapsed_seconds": 2.774276073090732,
+    "passes": 1,
+    "improvements_count": 0,
+    "improvements_log": [],
+    "final_route": [
+      0,
+      6,
+      1,
+      4,
+      36,
+      32,
+      7,
+      40,
+      38
+    ]
+  },
+  "gain": 0,
+  "finished_unix": 1793913051.5630612,
+  "total_seconds": 16.247023929841816,
+  "max_rss_worker_kb": 96828,
+  "max_rss_alns_kb": 43912,
+  "log_hashes": {
+    "logs/rd400.V60.seed20261142.alns.stdout": "38bba180d2d61b758519eaab7d4f69afa3d30ae0402a8d175d8b9f462f9e72e5",
+    "logs/rd400.V60.seed20261142.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

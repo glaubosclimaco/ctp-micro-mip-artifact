@@ -1,0 +1,68 @@
+{
+  "job": {
+    "case": "rat575.V145",
+    "seed": 20261147,
+    "key": "rat575.V145.seed20261147"
+  },
+  "status": "COMPLETED",
+  "started_unix": 1794146101.7277124,
+  "cpu": 2,
+  "protocol_sha256": "ac6532a0cad57a9769204e37a37388dbb7a16ee15a6e85bef79c1371ef456454",
+  "preparation_seconds": 0.022080759052187204,
+  "alns": {
+    "event": "final",
+    "mode": "M",
+    "seed": 20261147,
+    "iterations": 30000,
+    "complete": true,
+    "cost": 375,
+    "selector_calls": 1,
+    "labels": 918,
+    "wall_seconds": 146.475,
+    "removal_calls": [
+      10134,
+      9980,
+      9886
+    ],
+    "insertion_calls": [
+      10007,
+      9991,
+      10002
+    ],
+    "route": [
+      0,
+      118,
+      143,
+      126,
+      127,
+      129
+    ]
+  },
+  "alns_wrapper_seconds": 146.4758913370315,
+  "polishing": {
+    "initial_cost": 375,
+    "final_cost": 375,
+    "total_gain": 0,
+    "elapsed_seconds": 1.9208528101444244e-06,
+    "passes": 1,
+    "improvements_count": 0,
+    "improvements_log": [],
+    "final_route": [
+      0,
+      118,
+      143,
+      126,
+      127,
+      129
+    ]
+  },
+  "gain": 0,
+  "finished_unix": 1794146248.2263339,
+  "total_seconds": 146.49862255412154,
+  "max_rss_worker_kb": 48684,
+  "max_rss_alns_kb": 48684,
+  "log_hashes": {
+    "logs/rat575.V145.seed20261147.alns.stdout": "adb9600c544a1e905292aee2c6132dcb8967c76bd1e0ba1976ae55ed71aa6d3f",
+    "logs/rat575.V145.seed20261147.alns.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

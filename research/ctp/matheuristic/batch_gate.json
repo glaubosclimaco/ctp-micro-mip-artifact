@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "enumerated_windows": 24,
+  "two_visit_route": "PASS",
+  "scope": "Synthetic correctness gate, including windows crossing the depot; no performance claim"
+}

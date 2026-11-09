@@ -1,0 +1,3366 @@
+{
+  "scope": "Exploratory paired before/after polishing on 59 previously exposed cases",
+  "cases": [
+    "kroA100.V25",
+    "kroA150.V25",
+    "kroA200.V25",
+    "kroB100.V25",
+    "kroB150.V25",
+    "kroB200.V25",
+    "kroC100.V25",
+    "kroD100.V25",
+    "kroE100.V25",
+    "pr264.V40",
+    "pr299.V45",
+    "lin318.V48",
+    "kroA100.V50",
+    "kroA150.V50",
+    "kroA200.V50",
+    "kroB100.V50",
+    "kroB150.V50",
+    "kroB200.V50",
+    "kroC100.V50",
+    "kroD100.V50",
+    "kroE100.V50",
+    "rd400.V60",
+    "pr264.V66",
+    "pcb442.V67",
+    "d493.V75",
+    "kroA150.V75",
+    "kroA200.V75",
+    "kroB150.V75",
+    "kroB200.V75",
+    "pr299.V75",
+    "lin318.V80",
+    "ali535.V81",
+    "att532.V81",
+    "rat575.V87",
+    "pr264.V92",
+    "kroA200.V100",
+    "kroB200.V100",
+    "rd400.V100",
+    "pr299.V105",
+    "pcb442.V111",
+    "lin318.V112",
+    "d493.V124",
+    "pr264.V132",
+    "att532.V134",
+    "ali535.V135",
+    "rd400.V140",
+    "rat575.V145",
+    "pr299.V150",
+    "pcb442.V155",
+    "lin318.V159",
+    "d493.V173",
+    "att532.V187",
+    "ali535.V188",
+    "rat575.V202",
+    "pcb442.V221",
+    "d493.V247",
+    "att532.V266",
+    "ali535.V268",
+    "rat575.V288"
+  ],
+  "seeds": [
+    20261140,
+    20261141,
+    20261142,
+    20261143,
+    20261144,
+    20261145,
+    20261146,
+    20261147,
+    20261148,
+    20261149
+  ],
+  "jobs": [
+    {
+      "case": "kroA100.V25",
+      "seed": 20261140,
+      "key": "kroA100.V25.seed20261140"
+    },
+    {
+      "case": "kroA100.V25",
+      "seed": 20261141,
+      "key": "kroA100.V25.seed20261141"
+    },
+    {
+      "case": "kroA100.V25",
+      "seed": 20261142,
+      "key": "kroA100.V25.seed20261142"
+    },
+    {
+      "case": "kroA100.V25",
+      "seed": 20261143,
+      "key": "kroA100.V25.seed20261143"
+    },
+    {
+      "case": "kroA100.V25",
+      "seed": 20261144,
+      "key": "kroA100.V25.seed20261144"
+    },
+    {
+      "case": "kroA100.V25",
+      "seed": 20261145,
+      "key": "kroA100.V25.seed20261145"
+    },
+    {
+      "case": "kroA100.V25",
+      "seed": 20261146,
+      "key": "kroA100.V25.seed20261146"
+    },
+    {
+      "case": "kroA100.V25",
+      "seed": 20261147,
+      "key": "kroA100.V25.seed20261147"
+    },
+    {
+      "case": "kroA100.V25",
+      "seed": 20261148,
+      "key": "kroA100.V25.seed20261148"
+    },
+    {
+      "case": "kroA100.V25",
+      "seed": 20261149,
+      "key": "kroA100.V25.seed20261149"
+    },
+    {
+      "case": "kroA150.V25",
+      "seed": 20261140,
+      "key": "kroA150.V25.seed20261140"
+    },
+    {
+      "case": "kroA150.V25",
+      "seed": 20261141,
+      "key": "kroA150.V25.seed20261141"
+    },
+    {
+      "case": "kroA150.V25",
+      "seed": 20261142,
+      "key": "kroA150.V25.seed20261142"
+    },
+    {
+      "case": "kroA150.V25",
+      "seed": 20261143,
+      "key": "kroA150.V25.seed20261143"
+    },
+    {
+      "case": "kroA150.V25",
+      "seed": 20261144,
+      "key": "kroA150.V25.seed20261144"
+    },
+    {
+      "case": "kroA150.V25",
+      "seed": 20261145,
+      "key": "kroA150.V25.seed20261145"
+    },
+    {
+      "case": "kroA150.V25",
+      "seed": 20261146,
+      "key": "kroA150.V25.seed20261146"
+    },
+    {
+      "case": "kroA150.V25",
+      "seed": 20261147,
+      "key": "kroA150.V25.seed20261147"
+    },
+    {
+      "case": "kroA150.V25",
+      "seed": 20261148,
+      "key": "kroA150.V25.seed20261148"
+    },
+    {
+      "case": "kroA150.V25",
+      "seed": 20261149,
+      "key": "kroA150.V25.seed20261149"
+    },
+    {
+      "case": "kroA200.V25",
+      "seed": 20261140,
+      "key": "kroA200.V25.seed20261140"
+    },
+    {
+      "case": "kroA200.V25",
+      "seed": 20261141,
+      "key": "kroA200.V25.seed20261141"
+    },
+    {
+      "case": "kroA200.V25",
+      "seed": 20261142,
+      "key": "kroA200.V25.seed20261142"
+    },
+    {
+      "case": "kroA200.V25",
+      "seed": 20261143,
+      "key": "kroA200.V25.seed20261143"
+    },
+    {
+      "case": "kroA200.V25",
+      "seed": 20261144,
+      "key": "kroA200.V25.seed20261144"
+    },
+    {
+      "case": "kroA200.V25",
+      "seed": 20261145,
+      "key": "kroA200.V25.seed20261145"
+    },
+    {
+      "case": "kroA200.V25",
+      "seed": 20261146,
+      "key": "kroA200.V25.seed20261146"
+    },
+    {
+      "case": "kroA200.V25",
+      "seed": 20261147,
+      "key": "kroA200.V25.seed20261147"
+    },
+    {
+      "case": "kroA200.V25",
+      "seed": 20261148,
+      "key": "kroA200.V25.seed20261148"
+    },
+    {
+      "case": "kroA200.V25",
+      "seed": 20261149,
+      "key": "kroA200.V25.seed20261149"
+    },
+    {
+      "case": "kroB100.V25",
+      "seed": 20261140,
+      "key": "kroB100.V25.seed20261140"
+    },
+    {
+      "case": "kroB100.V25",
+      "seed": 20261141,
+      "key": "kroB100.V25.seed20261141"
+    },
+    {
+      "case": "kroB100.V25",
+      "seed": 20261142,
+      "key": "kroB100.V25.seed20261142"
+    },
+    {
+      "case": "kroB100.V25",
+      "seed": 20261143,
+      "key": "kroB100.V25.seed20261143"
+    },
+    {
+      "case": "kroB100.V25",
+      "seed": 20261144,
+      "key": "kroB100.V25.seed20261144"
+    },
+    {
+      "case": "kroB100.V25",
+      "seed": 20261145,
+      "key": "kroB100.V25.seed20261145"
+    },
+    {
+      "case": "kroB100.V25",
+      "seed": 20261146,
+      "key": "kroB100.V25.seed20261146"
+    },
+    {
+      "case": "kroB100.V25",
+      "seed": 20261147,
+      "key": "kroB100.V25.seed20261147"
+    },
+    {
+      "case": "kroB100.V25",
+      "seed": 20261148,
+      "key": "kroB100.V25.seed20261148"
+    },
+    {
+      "case": "kroB100.V25",
+      "seed": 20261149,
+      "key": "kroB100.V25.seed20261149"
+    },
+    {
+      "case": "kroB150.V25",
+      "seed": 20261140,
+      "key": "kroB150.V25.seed20261140"
+    },
+    {
+      "case": "kroB150.V25",
+      "seed": 20261141,
+      "key": "kroB150.V25.seed20261141"
+    },
+    {
+      "case": "kroB150.V25",
+      "seed": 20261142,
+      "key": "kroB150.V25.seed20261142"
+    },
+    {
+      "case": "kroB150.V25",
+      "seed": 20261143,
+      "key": "kroB150.V25.seed20261143"
+    },
+    {
+      "case": "kroB150.V25",
+      "seed": 20261144,
+      "key": "kroB150.V25.seed20261144"
+    },
+    {
+      "case": "kroB150.V25",
+      "seed": 20261145,
+      "key": "kroB150.V25.seed20261145"
+    },
+    {
+      "case": "kroB150.V25",
+      "seed": 20261146,
+      "key": "kroB150.V25.seed20261146"
+    },
+    {
+      "case": "kroB150.V25",
+      "seed": 20261147,
+      "key": "kroB150.V25.seed20261147"
+    },
+    {
+      "case": "kroB150.V25",
+      "seed": 20261148,
+      "key": "kroB150.V25.seed20261148"
+    },
+    {
+      "case": "kroB150.V25",
+      "seed": 20261149,
+      "key": "kroB150.V25.seed20261149"
+    },
+    {
+      "case": "kroB200.V25",
+      "seed": 20261140,
+      "key": "kroB200.V25.seed20261140"
+    },
+    {
+      "case": "kroB200.V25",
+      "seed": 20261141,
+      "key": "kroB200.V25.seed20261141"
+    },
+    {
+      "case": "kroB200.V25",
+      "seed": 20261142,
+      "key": "kroB200.V25.seed20261142"
+    },
+    {
+      "case": "kroB200.V25",
+      "seed": 20261143,
+      "key": "kroB200.V25.seed20261143"
+    },
+    {
+      "case": "kroB200.V25",
+      "seed": 20261144,
+      "key": "kroB200.V25.seed20261144"
+    },
+    {
+      "case": "kroB200.V25",
+      "seed": 20261145,
+      "key": "kroB200.V25.seed20261145"
+    },
+    {
+      "case": "kroB200.V25",
+      "seed": 20261146,
+      "key": "kroB200.V25.seed20261146"
+    },
+    {
+      "case": "kroB200.V25",
+      "seed": 20261147,
+      "key": "kroB200.V25.seed20261147"
+    },
+    {
+      "case": "kroB200.V25",
+      "seed": 20261148,
+      "key": "kroB200.V25.seed20261148"
+    },
+    {
+      "case": "kroB200.V25",
+      "seed": 20261149,
+      "key": "kroB200.V25.seed20261149"
+    },
+    {
+      "case": "kroC100.V25",
+      "seed": 20261140,
+      "key": "kroC100.V25.seed20261140"
+    },
+    {
+      "case": "kroC100.V25",
+      "seed": 20261141,
+      "key": "kroC100.V25.seed20261141"
+    },
+    {
+      "case": "kroC100.V25",
+      "seed": 20261142,
+      "key": "kroC100.V25.seed20261142"
+    },
+    {
+      "case": "kroC100.V25",
+      "seed": 20261143,
+      "key": "kroC100.V25.seed20261143"
+    },
+    {
+      "case": "kroC100.V25",
+      "seed": 20261144,
+      "key": "kroC100.V25.seed20261144"
+    },
+    {
+      "case": "kroC100.V25",
+      "seed": 20261145,
+      "key": "kroC100.V25.seed20261145"
+    },
+    {
+      "case": "kroC100.V25",
+      "seed": 20261146,
+      "key": "kroC100.V25.seed20261146"
+    },
+    {
+      "case": "kroC100.V25",
+      "seed": 20261147,
+      "key": "kroC100.V25.seed20261147"
+    },
+    {
+      "case": "kroC100.V25",
+      "seed": 20261148,
+      "key": "kroC100.V25.seed20261148"
+    },
+    {
+      "case": "kroC100.V25",
+      "seed": 20261149,
+      "key": "kroC100.V25.seed20261149"
+    },
+    {
+      "case": "kroD100.V25",
+      "seed": 20261140,
+      "key": "kroD100.V25.seed20261140"
+    },
+    {
+      "case": "kroD100.V25",
+      "seed": 20261141,
+      "key": "kroD100.V25.seed20261141"
+    },
+    {
+      "case": "kroD100.V25",
+      "seed": 20261142,
+      "key": "kroD100.V25.seed20261142"
+    },
+    {
+      "case": "kroD100.V25",
+      "seed": 20261143,
+      "key": "kroD100.V25.seed20261143"
+    },
+    {
+      "case": "kroD100.V25",
+      "seed": 20261144,
+      "key": "kroD100.V25.seed20261144"
+    },
+    {
+      "case": "kroD100.V25",
+      "seed": 20261145,
+      "key": "kroD100.V25.seed20261145"
+    },
+    {
+      "case": "kroD100.V25",
+      "seed": 20261146,
+      "key": "kroD100.V25.seed20261146"
+    },
+    {
+      "case": "kroD100.V25",
+      "seed": 20261147,
+      "key": "kroD100.V25.seed20261147"
+    },
+    {
+      "case": "kroD100.V25",
+      "seed": 20261148,
+      "key": "kroD100.V25.seed20261148"
+    },
+    {
+      "case": "kroD100.V25",
+      "seed": 20261149,
+      "key": "kroD100.V25.seed20261149"
+    },
+    {
+      "case": "kroE100.V25",
+      "seed": 20261140,
+      "key": "kroE100.V25.seed20261140"
+    },
+    {
+      "case": "kroE100.V25",
+      "seed": 20261141,
+      "key": "kroE100.V25.seed20261141"
+    },
+    {
+      "case": "kroE100.V25",
+      "seed": 20261142,
+      "key": "kroE100.V25.seed20261142"
+    },
+    {
+      "case": "kroE100.V25",
+      "seed": 20261143,
+      "key": "kroE100.V25.seed20261143"
+    },
+    {
+      "case": "kroE100.V25",
+      "seed": 20261144,
+      "key": "kroE100.V25.seed20261144"
+    },
+    {
+      "case": "kroE100.V25",
+      "seed": 20261145,
+      "key": "kroE100.V25.seed20261145"
+    },
+    {
+      "case": "kroE100.V25",
+      "seed": 20261146,
+      "key": "kroE100.V25.seed20261146"
+    },
+    {
+      "case": "kroE100.V25",
+      "seed": 20261147,
+      "key": "kroE100.V25.seed20261147"
+    },
+    {
+      "case": "kroE100.V25",
+      "seed": 20261148,
+      "key": "kroE100.V25.seed20261148"
+    },
+    {
+      "case": "kroE100.V25",
+      "seed": 20261149,
+      "key": "kroE100.V25.seed20261149"
+    },
+    {
+      "case": "pr264.V40",
+      "seed": 20261140,
+      "key": "pr264.V40.seed20261140"
+    },
+    {
+      "case": "pr264.V40",
+      "seed": 20261141,
+      "key": "pr264.V40.seed20261141"
+    },
+    {
+      "case": "pr264.V40",
+      "seed": 20261142,
+      "key": "pr264.V40.seed20261142"
+    },
+    {
+      "case": "pr264.V40",
+      "seed": 20261143,
+      "key": "pr264.V40.seed20261143"
+    },
+    {
+      "case": "pr264.V40",
+      "seed": 20261144,
+      "key": "pr264.V40.seed20261144"
+    },
+    {
+      "case": "pr264.V40",
+      "seed": 20261145,
+      "key": "pr264.V40.seed20261145"
+    },
+    {
+      "case": "pr264.V40",
+      "seed": 20261146,
+      "key": "pr264.V40.seed20261146"
+    },
+    {
+      "case": "pr264.V40",
+      "seed": 20261147,
+      "key": "pr264.V40.seed20261147"
+    },
+    {
+      "case": "pr264.V40",
+      "seed": 20261148,
+      "key": "pr264.V40.seed20261148"
+    },
+    {
+      "case": "pr264.V40",
+      "seed": 20261149,
+      "key": "pr264.V40.seed20261149"
+    },
+    {
+      "case": "pr299.V45",
+      "seed": 20261140,
+      "key": "pr299.V45.seed20261140"
+    },
+    {
+      "case": "pr299.V45",
+      "seed": 20261141,
+      "key": "pr299.V45.seed20261141"
+    },
+    {
+      "case": "pr299.V45",
+      "seed": 20261142,
+      "key": "pr299.V45.seed20261142"
+    },
+    {
+      "case": "pr299.V45",
+      "seed": 20261143,
+      "key": "pr299.V45.seed20261143"
+    },
+    {
+      "case": "pr299.V45",
+      "seed": 20261144,
+      "key": "pr299.V45.seed20261144"
+    },
+    {
+      "case": "pr299.V45",
+      "seed": 20261145,
+      "key": "pr299.V45.seed20261145"
+    },
+    {
+      "case": "pr299.V45",
+      "seed": 20261146,
+      "key": "pr299.V45.seed20261146"
+    },
+    {
+      "case": "pr299.V45",
+      "seed": 20261147,
+      "key": "pr299.V45.seed20261147"
+    },
+    {
+      "case": "pr299.V45",
+      "seed": 20261148,
+      "key": "pr299.V45.seed20261148"
+    },
+    {
+      "case": "pr299.V45",
+      "seed": 20261149,
+      "key": "pr299.V45.seed20261149"
+    },
+    {
+      "case": "lin318.V48",
+      "seed": 20261140,
+      "key": "lin318.V48.seed20261140"
+    },
+    {
+      "case": "lin318.V48",
+      "seed": 20261141,
+      "key": "lin318.V48.seed20261141"
+    },
+    {
+      "case": "lin318.V48",
+      "seed": 20261142,
+      "key": "lin318.V48.seed20261142"
+    },
+    {
+      "case": "lin318.V48",
+      "seed": 20261143,
+      "key": "lin318.V48.seed20261143"
+    },
+    {
+      "case": "lin318.V48",
+      "seed": 20261144,
+      "key": "lin318.V48.seed20261144"
+    },
+    {
+      "case": "lin318.V48",
+      "seed": 20261145,
+      "key": "lin318.V48.seed20261145"
+    },
+    {
+      "case": "lin318.V48",
+      "seed": 20261146,
+      "key": "lin318.V48.seed20261146"
+    },
+    {
+      "case": "lin318.V48",
+      "seed": 20261147,
+      "key": "lin318.V48.seed20261147"
+    },
+    {
+      "case": "lin318.V48",
+      "seed": 20261148,
+      "key": "lin318.V48.seed20261148"
+    },
+    {
+      "case": "lin318.V48",
+      "seed": 20261149,
+      "key": "lin318.V48.seed20261149"
+    },
+    {
+      "case": "kroA100.V50",
+      "seed": 20261140,
+      "key": "kroA100.V50.seed20261140"
+    },
+    {
+      "case": "kroA100.V50",
+      "seed": 20261141,
+      "key": "kroA100.V50.seed20261141"
+    },
+    {
+      "case": "kroA100.V50",
+      "seed": 20261142,
+      "key": "kroA100.V50.seed20261142"
+    },
+    {
+      "case": "kroA100.V50",
+      "seed": 20261143,
+      "key": "kroA100.V50.seed20261143"
+    },
+    {
+      "case": "kroA100.V50",
+      "seed": 20261144,
+      "key": "kroA100.V50.seed20261144"
+    },
+    {
+      "case": "kroA100.V50",
+      "seed": 20261145,
+      "key": "kroA100.V50.seed20261145"
+    },
+    {
+      "case": "kroA100.V50",
+      "seed": 20261146,
+      "key": "kroA100.V50.seed20261146"
+    },
+    {
+      "case": "kroA100.V50",
+      "seed": 20261147,
+      "key": "kroA100.V50.seed20261147"
+    },
+    {
+      "case": "kroA100.V50",
+      "seed": 20261148,
+      "key": "kroA100.V50.seed20261148"
+    },
+    {
+      "case": "kroA100.V50",
+      "seed": 20261149,
+      "key": "kroA100.V50.seed20261149"
+    },
+    {
+      "case": "kroA150.V50",
+      "seed": 20261140,
+      "key": "kroA150.V50.seed20261140"
+    },
+    {
+      "case": "kroA150.V50",
+      "seed": 20261141,
+      "key": "kroA150.V50.seed20261141"
+    },
+    {
+      "case": "kroA150.V50",
+      "seed": 20261142,
+      "key": "kroA150.V50.seed20261142"
+    },
+    {
+      "case": "kroA150.V50",
+      "seed": 20261143,
+      "key": "kroA150.V50.seed20261143"
+    },
+    {
+      "case": "kroA150.V50",
+      "seed": 20261144,
+      "key": "kroA150.V50.seed20261144"
+    },
+    {
+      "case": "kroA150.V50",
+      "seed": 20261145,
+      "key": "kroA150.V50.seed20261145"
+    },
+    {
+      "case": "kroA150.V50",
+      "seed": 20261146,
+      "key": "kroA150.V50.seed20261146"
+    },
+    {
+      "case": "kroA150.V50",
+      "seed": 20261147,
+      "key": "kroA150.V50.seed20261147"
+    },
+    {
+      "case": "kroA150.V50",
+      "seed": 20261148,
+      "key": "kroA150.V50.seed20261148"
+    },
+    {
+      "case": "kroA150.V50",
+      "seed": 20261149,
+      "key": "kroA150.V50.seed20261149"
+    },
+    {
+      "case": "kroA200.V50",
+      "seed": 20261140,
+      "key": "kroA200.V50.seed20261140"
+    },
+    {
+      "case": "kroA200.V50",
+      "seed": 20261141,
+      "key": "kroA200.V50.seed20261141"
+    },
+    {
+      "case": "kroA200.V50",
+      "seed": 20261142,
+      "key": "kroA200.V50.seed20261142"
+    },
+    {
+      "case": "kroA200.V50",
+      "seed": 20261143,
+      "key": "kroA200.V50.seed20261143"
+    },
+    {
+      "case": "kroA200.V50",
+      "seed": 20261144,
+      "key": "kroA200.V50.seed20261144"
+    },
+    {
+      "case": "kroA200.V50",
+      "seed": 20261145,
+      "key": "kroA200.V50.seed20261145"
+    },
+    {
+      "case": "kroA200.V50",
+      "seed": 20261146,
+      "key": "kroA200.V50.seed20261146"
+    },
+    {
+      "case": "kroA200.V50",
+      "seed": 20261147,
+      "key": "kroA200.V50.seed20261147"
+    },
+    {
+      "case": "kroA200.V50",
+      "seed": 20261148,
+      "key": "kroA200.V50.seed20261148"
+    },
+    {
+      "case": "kroA200.V50",
+      "seed": 20261149,
+      "key": "kroA200.V50.seed20261149"
+    },
+    {
+      "case": "kroB100.V50",
+      "seed": 20261140,
+      "key": "kroB100.V50.seed20261140"
+    },
+    {
+      "case": "kroB100.V50",
+      "seed": 20261141,
+      "key": "kroB100.V50.seed20261141"
+    },
+    {
+      "case": "kroB100.V50",
+      "seed": 20261142,
+      "key": "kroB100.V50.seed20261142"
+    },
+    {
+      "case": "kroB100.V50",
+      "seed": 20261143,
+      "key": "kroB100.V50.seed20261143"
+    },
+    {
+      "case": "kroB100.V50",
+      "seed": 20261144,
+      "key": "kroB100.V50.seed20261144"
+    },
+    {
+      "case": "kroB100.V50",
+      "seed": 20261145,
+      "key": "kroB100.V50.seed20261145"
+    },
+    {
+      "case": "kroB100.V50",
+      "seed": 20261146,
+      "key": "kroB100.V50.seed20261146"
+    },
+    {
+      "case": "kroB100.V50",
+      "seed": 20261147,
+      "key": "kroB100.V50.seed20261147"
+    },
+    {
+      "case": "kroB100.V50",
+      "seed": 20261148,
+      "key": "kroB100.V50.seed20261148"
+    },
+    {
+      "case": "kroB100.V50",
+      "seed": 20261149,
+      "key": "kroB100.V50.seed20261149"
+    },
+    {
+      "case": "kroB150.V50",
+      "seed": 20261140,
+      "key": "kroB150.V50.seed20261140"
+    },
+    {
+      "case": "kroB150.V50",
+      "seed": 20261141,
+      "key": "kroB150.V50.seed20261141"
+    },
+    {
+      "case": "kroB150.V50",
+      "seed": 20261142,
+      "key": "kroB150.V50.seed20261142"
+    },
+    {
+      "case": "kroB150.V50",
+      "seed": 20261143,
+      "key": "kroB150.V50.seed20261143"
+    },
+    {
+      "case": "kroB150.V50",
+      "seed": 20261144,
+      "key": "kroB150.V50.seed20261144"
+    },
+    {
+      "case": "kroB150.V50",
+      "seed": 20261145,
+      "key": "kroB150.V50.seed20261145"
+    },
+    {
+      "case": "kroB150.V50",
+      "seed": 20261146,
+      "key": "kroB150.V50.seed20261146"
+    },
+    {
+      "case": "kroB150.V50",
+      "seed": 20261147,
+      "key": "kroB150.V50.seed20261147"
+    },
+    {
+      "case": "kroB150.V50",
+      "seed": 20261148,
+      "key": "kroB150.V50.seed20261148"
+    },
+    {
+      "case": "kroB150.V50",
+      "seed": 20261149,
+      "key": "kroB150.V50.seed20261149"
+    },
+    {
+      "case": "kroB200.V50",
+      "seed": 20261140,
+      "key": "kroB200.V50.seed20261140"
+    },
+    {
+      "case": "kroB200.V50",
+      "seed": 20261141,
+      "key": "kroB200.V50.seed20261141"
+    },
+    {
+      "case": "kroB200.V50",
+      "seed": 20261142,
+      "key": "kroB200.V50.seed20261142"
+    },
+    {
+      "case": "kroB200.V50",
+      "seed": 20261143,
+      "key": "kroB200.V50.seed20261143"
+    },
+    {
+      "case": "kroB200.V50",
+      "seed": 20261144,
+      "key": "kroB200.V50.seed20261144"
+    },
+    {
+      "case": "kroB200.V50",
+      "seed": 20261145,
+      "key": "kroB200.V50.seed20261145"
+    },
+    {
+      "case": "kroB200.V50",
+      "seed": 20261146,
+      "key": "kroB200.V50.seed20261146"
+    },
+    {
+      "case": "kroB200.V50",
+      "seed": 20261147,
+      "key": "kroB200.V50.seed20261147"
+    },
+    {
+      "case": "kroB200.V50",
+      "seed": 20261148,
+      "key": "kroB200.V50.seed20261148"
+    },
+    {
+      "case": "kroB200.V50",
+      "seed": 20261149,
+      "key": "kroB200.V50.seed20261149"
+    },
+    {
+      "case": "kroC100.V50",
+      "seed": 20261140,
+      "key": "kroC100.V50.seed20261140"
+    },
+    {
+      "case": "kroC100.V50",
+      "seed": 20261141,
+      "key": "kroC100.V50.seed20261141"
+    },
+    {
+      "case": "kroC100.V50",
+      "seed": 20261142,
+      "key": "kroC100.V50.seed20261142"
+    },
+    {
+      "case": "kroC100.V50",
+      "seed": 20261143,
+      "key": "kroC100.V50.seed20261143"
+    },
+    {
+      "case": "kroC100.V50",
+      "seed": 20261144,
+      "key": "kroC100.V50.seed20261144"
+    },
+    {
+      "case": "kroC100.V50",
+      "seed": 20261145,
+      "key": "kroC100.V50.seed20261145"
+    },
+    {
+      "case": "kroC100.V50",
+      "seed": 20261146,
+      "key": "kroC100.V50.seed20261146"
+    },
+    {
+      "case": "kroC100.V50",
+      "seed": 20261147,
+      "key": "kroC100.V50.seed20261147"
+    },
+    {
+      "case": "kroC100.V50",
+      "seed": 20261148,
+      "key": "kroC100.V50.seed20261148"
+    },
+    {
+      "case": "kroC100.V50",
+      "seed": 20261149,
+      "key": "kroC100.V50.seed20261149"
+    },
+    {
+      "case": "kroD100.V50",
+      "seed": 20261140,
+      "key": "kroD100.V50.seed20261140"
+    },
+    {
+      "case": "kroD100.V50",
+      "seed": 20261141,
+      "key": "kroD100.V50.seed20261141"
+    },
+    {
+      "case": "kroD100.V50",
+      "seed": 20261142,
+      "key": "kroD100.V50.seed20261142"
+    },
+    {
+      "case": "kroD100.V50",
+      "seed": 20261143,
+      "key": "kroD100.V50.seed20261143"
+    },
+    {
+      "case": "kroD100.V50",
+      "seed": 20261144,
+      "key": "kroD100.V50.seed20261144"
+    },
+    {
+      "case": "kroD100.V50",
+      "seed": 20261145,
+      "key": "kroD100.V50.seed20261145"
+    },
+    {
+      "case": "kroD100.V50",
+      "seed": 20261146,
+      "key": "kroD100.V50.seed20261146"
+    },
+    {
+      "case": "kroD100.V50",
+      "seed": 20261147,
+      "key": "kroD100.V50.seed20261147"
+    },
+    {
+      "case": "kroD100.V50",
+      "seed": 20261148,
+      "key": "kroD100.V50.seed20261148"
+    },
+    {
+      "case": "kroD100.V50",
+      "seed": 20261149,
+      "key": "kroD100.V50.seed20261149"
+    },
+    {
+      "case": "kroE100.V50",
+      "seed": 20261140,
+      "key": "kroE100.V50.seed20261140"
+    },
+    {
+      "case": "kroE100.V50",
+      "seed": 20261141,
+      "key": "kroE100.V50.seed20261141"
+    },
+    {
+      "case": "kroE100.V50",
+      "seed": 20261142,
+      "key": "kroE100.V50.seed20261142"
+    },
+    {
+      "case": "kroE100.V50",
+      "seed": 20261143,
+      "key": "kroE100.V50.seed20261143"
+    },
+    {
+      "case": "kroE100.V50",
+      "seed": 20261144,
+      "key": "kroE100.V50.seed20261144"
+    },
+    {
+      "case": "kroE100.V50",
+      "seed": 20261145,
+      "key": "kroE100.V50.seed20261145"
+    },
+    {
+      "case": "kroE100.V50",
+      "seed": 20261146,
+      "key": "kroE100.V50.seed20261146"
+    },
+    {
+      "case": "kroE100.V50",
+      "seed": 20261147,
+      "key": "kroE100.V50.seed20261147"
+    },
+    {
+      "case": "kroE100.V50",
+      "seed": 20261148,
+      "key": "kroE100.V50.seed20261148"
+    },
+    {
+      "case": "kroE100.V50",
+      "seed": 20261149,
+      "key": "kroE100.V50.seed20261149"
+    },
+    {
+      "case": "rd400.V60",
+      "seed": 20261140,
+      "key": "rd400.V60.seed20261140"
+    },
+    {
+      "case": "rd400.V60",
+      "seed": 20261141,
+      "key": "rd400.V60.seed20261141"
+    },
+    {
+      "case": "rd400.V60",
+      "seed": 20261142,
+      "key": "rd400.V60.seed20261142"
+    },
+    {
+      "case": "rd400.V60",
+      "seed": 20261143,
+      "key": "rd400.V60.seed20261143"
+    },
+    {
+      "case": "rd400.V60",
+      "seed": 20261144,
+      "key": "rd400.V60.seed20261144"
+    },
+    {
+      "case": "rd400.V60",
+      "seed": 20261145,
+      "key": "rd400.V60.seed20261145"
+    },
+    {
+      "case": "rd400.V60",
+      "seed": 20261146,
+      "key": "rd400.V60.seed20261146"
+    },
+    {
+      "case": "rd400.V60",
+      "seed": 20261147,
+      "key": "rd400.V60.seed20261147"
+    },
+    {
+      "case": "rd400.V60",
+      "seed": 20261148,
+      "key": "rd400.V60.seed20261148"
+    },
+    {
+      "case": "rd400.V60",
+      "seed": 20261149,
+      "key": "rd400.V60.seed20261149"
+    },
+    {
+      "case": "pr264.V66",
+      "seed": 20261140,
+      "key": "pr264.V66.seed20261140"
+    },
+    {
+      "case": "pr264.V66",
+      "seed": 20261141,
+      "key": "pr264.V66.seed20261141"
+    },
+    {
+      "case": "pr264.V66",
+      "seed": 20261142,
+      "key": "pr264.V66.seed20261142"
+    },
+    {
+      "case": "pr264.V66",
+      "seed": 20261143,
+      "key": "pr264.V66.seed20261143"
+    },
+    {
+      "case": "pr264.V66",
+      "seed": 20261144,
+      "key": "pr264.V66.seed20261144"
+    },
+    {
+      "case": "pr264.V66",
+      "seed": 20261145,
+      "key": "pr264.V66.seed20261145"
+    },
+    {
+      "case": "pr264.V66",
+      "seed": 20261146,
+      "key": "pr264.V66.seed20261146"
+    },
+    {
+      "case": "pr264.V66",
+      "seed": 20261147,
+      "key": "pr264.V66.seed20261147"
+    },
+    {
+      "case": "pr264.V66",
+      "seed": 20261148,
+      "key": "pr264.V66.seed20261148"
+    },
+    {
+      "case": "pr264.V66",
+      "seed": 20261149,
+      "key": "pr264.V66.seed20261149"
+    },
+    {
+      "case": "pcb442.V67",
+      "seed": 20261140,
+      "key": "pcb442.V67.seed20261140"
+    },
+    {
+      "case": "pcb442.V67",
+      "seed": 20261141,
+      "key": "pcb442.V67.seed20261141"
+    },
+    {
+      "case": "pcb442.V67",
+      "seed": 20261142,
+      "key": "pcb442.V67.seed20261142"
+    },
+    {
+      "case": "pcb442.V67",
+      "seed": 20261143,
+      "key": "pcb442.V67.seed20261143"
+    },
+    {
+      "case": "pcb442.V67",
+      "seed": 20261144,
+      "key": "pcb442.V67.seed20261144"
+    },
+    {
+      "case": "pcb442.V67",
+      "seed": 20261145,
+      "key": "pcb442.V67.seed20261145"
+    },
+    {
+      "case": "pcb442.V67",
+      "seed": 20261146,
+      "key": "pcb442.V67.seed20261146"
+    },
+    {
+      "case": "pcb442.V67",
+      "seed": 20261147,
+      "key": "pcb442.V67.seed20261147"
+    },
+    {
+      "case": "pcb442.V67",
+      "seed": 20261148,
+      "key": "pcb442.V67.seed20261148"
+    },
+    {
+      "case": "pcb442.V67",
+      "seed": 20261149,
+      "key": "pcb442.V67.seed20261149"
+    },
+    {
+      "case": "d493.V75",
+      "seed": 20261140,
+      "key": "d493.V75.seed20261140"
+    },
+    {
+      "case": "d493.V75",
+      "seed": 20261141,
+      "key": "d493.V75.seed20261141"
+    },
+    {
+      "case": "d493.V75",
+      "seed": 20261142,
+      "key": "d493.V75.seed20261142"
+    },
+    {
+      "case": "d493.V75",
+      "seed": 20261143,
+      "key": "d493.V75.seed20261143"
+    },
+    {
+      "case": "d493.V75",
+      "seed": 20261144,
+      "key": "d493.V75.seed20261144"
+    },
+    {
+      "case": "d493.V75",
+      "seed": 20261145,
+      "key": "d493.V75.seed20261145"
+    },
+    {
+      "case": "d493.V75",
+      "seed": 20261146,
+      "key": "d493.V75.seed20261146"
+    },
+    {
+      "case": "d493.V75",
+      "seed": 20261147,
+      "key": "d493.V75.seed20261147"
+    },
+    {
+      "case": "d493.V75",
+      "seed": 20261148,
+      "key": "d493.V75.seed20261148"
+    },
+    {
+      "case": "d493.V75",
+      "seed": 20261149,
+      "key": "d493.V75.seed20261149"
+    },
+    {
+      "case": "kroA150.V75",
+      "seed": 20261140,
+      "key": "kroA150.V75.seed20261140"
+    },
+    {
+      "case": "kroA150.V75",
+      "seed": 20261141,
+      "key": "kroA150.V75.seed20261141"
+    },
+    {
+      "case": "kroA150.V75",
+      "seed": 20261142,
+      "key": "kroA150.V75.seed20261142"
+    },
+    {
+      "case": "kroA150.V75",
+      "seed": 20261143,
+      "key": "kroA150.V75.seed20261143"
+    },
+    {
+      "case": "kroA150.V75",
+      "seed": 20261144,
+      "key": "kroA150.V75.seed20261144"
+    },
+    {
+      "case": "kroA150.V75",
+      "seed": 20261145,
+      "key": "kroA150.V75.seed20261145"
+    },
+    {
+      "case": "kroA150.V75",
+      "seed": 20261146,
+      "key": "kroA150.V75.seed20261146"
+    },
+    {
+      "case": "kroA150.V75",
+      "seed": 20261147,
+      "key": "kroA150.V75.seed20261147"
+    },
+    {
+      "case": "kroA150.V75",
+      "seed": 20261148,
+      "key": "kroA150.V75.seed20261148"
+    },
+    {
+      "case": "kroA150.V75",
+      "seed": 20261149,
+      "key": "kroA150.V75.seed20261149"
+    },
+    {
+      "case": "kroA200.V75",
+      "seed": 20261140,
+      "key": "kroA200.V75.seed20261140"
+    },
+    {
+      "case": "kroA200.V75",
+      "seed": 20261141,
+      "key": "kroA200.V75.seed20261141"
+    },
+    {
+      "case": "kroA200.V75",
+      "seed": 20261142,
+      "key": "kroA200.V75.seed20261142"
+    },
+    {
+      "case": "kroA200.V75",
+      "seed": 20261143,
+      "key": "kroA200.V75.seed20261143"
+    },
+    {
+      "case": "kroA200.V75",
+      "seed": 20261144,
+      "key": "kroA200.V75.seed20261144"
+    },
+    {
+      "case": "kroA200.V75",
+      "seed": 20261145,
+      "key": "kroA200.V75.seed20261145"
+    },
+    {
+      "case": "kroA200.V75",
+      "seed": 20261146,
+      "key": "kroA200.V75.seed20261146"
+    },
+    {
+      "case": "kroA200.V75",
+      "seed": 20261147,
+      "key": "kroA200.V75.seed20261147"
+    },
+    {
+      "case": "kroA200.V75",
+      "seed": 20261148,
+      "key": "kroA200.V75.seed20261148"
+    },
+    {
+      "case": "kroA200.V75",
+      "seed": 20261149,
+      "key": "kroA200.V75.seed20261149"
+    },
+    {
+      "case": "kroB150.V75",
+      "seed": 20261140,
+      "key": "kroB150.V75.seed20261140"
+    },
+    {
+      "case": "kroB150.V75",
+      "seed": 20261141,
+      "key": "kroB150.V75.seed20261141"
+    },
+    {
+      "case": "kroB150.V75",
+      "seed": 20261142,
+      "key": "kroB150.V75.seed20261142"
+    },
+    {
+      "case": "kroB150.V75",
+      "seed": 20261143,
+      "key": "kroB150.V75.seed20261143"
+    },
+    {
+      "case": "kroB150.V75",
+      "seed": 20261144,
+      "key": "kroB150.V75.seed20261144"
+    },
+    {
+      "case": "kroB150.V75",
+      "seed": 20261145,
+      "key": "kroB150.V75.seed20261145"
+    },
+    {
+      "case": "kroB150.V75",
+      "seed": 20261146,
+      "key": "kroB150.V75.seed20261146"
+    },
+    {
+      "case": "kroB150.V75",
+      "seed": 20261147,
+      "key": "kroB150.V75.seed20261147"
+    },
+    {
+      "case": "kroB150.V75",
+      "seed": 20261148,
+      "key": "kroB150.V75.seed20261148"
+    },
+    {
+      "case": "kroB150.V75",
+      "seed": 20261149,
+      "key": "kroB150.V75.seed20261149"
+    },
+    {
+      "case": "kroB200.V75",
+      "seed": 20261140,
+      "key": "kroB200.V75.seed20261140"
+    },
+    {
+      "case": "kroB200.V75",
+      "seed": 20261141,
+      "key": "kroB200.V75.seed20261141"
+    },
+    {
+      "case": "kroB200.V75",
+      "seed": 20261142,
+      "key": "kroB200.V75.seed20261142"
+    },
+    {
+      "case": "kroB200.V75",
+      "seed": 20261143,
+      "key": "kroB200.V75.seed20261143"
+    },
+    {
+      "case": "kroB200.V75",
+      "seed": 20261144,
+      "key": "kroB200.V75.seed20261144"
+    },
+    {
+      "case": "kroB200.V75",
+      "seed": 20261145,
+      "key": "kroB200.V75.seed20261145"
+    },
+    {
+      "case": "kroB200.V75",
+      "seed": 20261146,
+      "key": "kroB200.V75.seed20261146"
+    },
+    {
+      "case": "kroB200.V75",
+      "seed": 20261147,
+      "key": "kroB200.V75.seed20261147"
+    },
+    {
+      "case": "kroB200.V75",
+      "seed": 20261148,
+      "key": "kroB200.V75.seed20261148"
+    },
+    {
+      "case": "kroB200.V75",
+      "seed": 20261149,
+      "key": "kroB200.V75.seed20261149"
+    },
+    {
+      "case": "pr299.V75",
+      "seed": 20261140,
+      "key": "pr299.V75.seed20261140"
+    },
+    {
+      "case": "pr299.V75",
+      "seed": 20261141,
+      "key": "pr299.V75.seed20261141"
+    },
+    {
+      "case": "pr299.V75",
+      "seed": 20261142,
+      "key": "pr299.V75.seed20261142"
+    },
+    {
+      "case": "pr299.V75",
+      "seed": 20261143,
+      "key": "pr299.V75.seed20261143"
+    },
+    {
+      "case": "pr299.V75",
+      "seed": 20261144,
+      "key": "pr299.V75.seed20261144"
+    },
+    {
+      "case": "pr299.V75",
+      "seed": 20261145,
+      "key": "pr299.V75.seed20261145"
+    },
+    {
+      "case": "pr299.V75",
+      "seed": 20261146,
+      "key": "pr299.V75.seed20261146"
+    },
+    {
+      "case": "pr299.V75",
+      "seed": 20261147,
+      "key": "pr299.V75.seed20261147"
+    },
+    {
+      "case": "pr299.V75",
+      "seed": 20261148,
+      "key": "pr299.V75.seed20261148"
+    },
+    {
+      "case": "pr299.V75",
+      "seed": 20261149,
+      "key": "pr299.V75.seed20261149"
+    },
+    {
+      "case": "lin318.V80",
+      "seed": 20261140,
+      "key": "lin318.V80.seed20261140"
+    },
+    {
+      "case": "lin318.V80",
+      "seed": 20261141,
+      "key": "lin318.V80.seed20261141"
+    },
+    {
+      "case": "lin318.V80",
+      "seed": 20261142,
+      "key": "lin318.V80.seed20261142"
+    },
+    {
+      "case": "lin318.V80",
+      "seed": 20261143,
+      "key": "lin318.V80.seed20261143"
+    },
+    {
+      "case": "lin318.V80",
+      "seed": 20261144,
+      "key": "lin318.V80.seed20261144"
+    },
+    {
+      "case": "lin318.V80",
+      "seed": 20261145,
+      "key": "lin318.V80.seed20261145"
+    },
+    {
+      "case": "lin318.V80",
+      "seed": 20261146,
+      "key": "lin318.V80.seed20261146"
+    },
+    {
+      "case": "lin318.V80",
+      "seed": 20261147,
+      "key": "lin318.V80.seed20261147"
+    },
+    {
+      "case": "lin318.V80",
+      "seed": 20261148,
+      "key": "lin318.V80.seed20261148"
+    },
+    {
+      "case": "lin318.V80",
+      "seed": 20261149,
+      "key": "lin318.V80.seed20261149"
+    },
+    {
+      "case": "ali535.V81",
+      "seed": 20261140,
+      "key": "ali535.V81.seed20261140"
+    },
+    {
+      "case": "ali535.V81",
+      "seed": 20261141,
+      "key": "ali535.V81.seed20261141"
+    },
+    {
+      "case": "ali535.V81",
+      "seed": 20261142,
+      "key": "ali535.V81.seed20261142"
+    },
+    {
+      "case": "ali535.V81",
+      "seed": 20261143,
+      "key": "ali535.V81.seed20261143"
+    },
+    {
+      "case": "ali535.V81",
+      "seed": 20261144,
+      "key": "ali535.V81.seed20261144"
+    },
+    {
+      "case": "ali535.V81",
+      "seed": 20261145,
+      "key": "ali535.V81.seed20261145"
+    },
+    {
+      "case": "ali535.V81",
+      "seed": 20261146,
+      "key": "ali535.V81.seed20261146"
+    },
+    {
+      "case": "ali535.V81",
+      "seed": 20261147,
+      "key": "ali535.V81.seed20261147"
+    },
+    {
+      "case": "ali535.V81",
+      "seed": 20261148,
+      "key": "ali535.V81.seed20261148"
+    },
+    {
+      "case": "ali535.V81",
+      "seed": 20261149,
+      "key": "ali535.V81.seed20261149"
+    },
+    {
+      "case": "att532.V81",
+      "seed": 20261140,
+      "key": "att532.V81.seed20261140"
+    },
+    {
+      "case": "att532.V81",
+      "seed": 20261141,
+      "key": "att532.V81.seed20261141"
+    },
+    {
+      "case": "att532.V81",
+      "seed": 20261142,
+      "key": "att532.V81.seed20261142"
+    },
+    {
+      "case": "att532.V81",
+      "seed": 20261143,
+      "key": "att532.V81.seed20261143"
+    },
+    {
+      "case": "att532.V81",
+      "seed": 20261144,
+      "key": "att532.V81.seed20261144"
+    },
+    {
+      "case": "att532.V81",
+      "seed": 20261145,
+      "key": "att532.V81.seed20261145"
+    },
+    {
+      "case": "att532.V81",
+      "seed": 20261146,
+      "key": "att532.V81.seed20261146"
+    },
+    {
+      "case": "att532.V81",
+      "seed": 20261147,
+      "key": "att532.V81.seed20261147"
+    },
+    {
+      "case": "att532.V81",
+      "seed": 20261148,
+      "key": "att532.V81.seed20261148"
+    },
+    {
+      "case": "att532.V81",
+      "seed": 20261149,
+      "key": "att532.V81.seed20261149"
+    },
+    {
+      "case": "rat575.V87",
+      "seed": 20261140,
+      "key": "rat575.V87.seed20261140"
+    },
+    {
+      "case": "rat575.V87",
+      "seed": 20261141,
+      "key": "rat575.V87.seed20261141"
+    },
+    {
+      "case": "rat575.V87",
+      "seed": 20261142,
+      "key": "rat575.V87.seed20261142"
+    },
+    {
+      "case": "rat575.V87",
+      "seed": 20261143,
+      "key": "rat575.V87.seed20261143"
+    },
+    {
+      "case": "rat575.V87",
+      "seed": 20261144,
+      "key": "rat575.V87.seed20261144"
+    },
+    {
+      "case": "rat575.V87",
+      "seed": 20261145,
+      "key": "rat575.V87.seed20261145"
+    },
+    {
+      "case": "rat575.V87",
+      "seed": 20261146,
+      "key": "rat575.V87.seed20261146"
+    },
+    {
+      "case": "rat575.V87",
+      "seed": 20261147,
+      "key": "rat575.V87.seed20261147"
+    },
+    {
+      "case": "rat575.V87",
+      "seed": 20261148,
+      "key": "rat575.V87.seed20261148"
+    },
+    {
+      "case": "rat575.V87",
+      "seed": 20261149,
+      "key": "rat575.V87.seed20261149"
+    },
+    {
+      "case": "pr264.V92",
+      "seed": 20261140,
+      "key": "pr264.V92.seed20261140"
+    },
+    {
+      "case": "pr264.V92",
+      "seed": 20261141,
+      "key": "pr264.V92.seed20261141"
+    },
+    {
+      "case": "pr264.V92",
+      "seed": 20261142,
+      "key": "pr264.V92.seed20261142"
+    },
+    {
+      "case": "pr264.V92",
+      "seed": 20261143,
+      "key": "pr264.V92.seed20261143"
+    },
+    {
+      "case": "pr264.V92",
+      "seed": 20261144,
+      "key": "pr264.V92.seed20261144"
+    },
+    {
+      "case": "pr264.V92",
+      "seed": 20261145,
+      "key": "pr264.V92.seed20261145"
+    },
+    {
+      "case": "pr264.V92",
+      "seed": 20261146,
+      "key": "pr264.V92.seed20261146"
+    },
+    {
+      "case": "pr264.V92",
+      "seed": 20261147,
+      "key": "pr264.V92.seed20261147"
+    },
+    {
+      "case": "pr264.V92",
+      "seed": 20261148,
+      "key": "pr264.V92.seed20261148"
+    },
+    {
+      "case": "pr264.V92",
+      "seed": 20261149,
+      "key": "pr264.V92.seed20261149"
+    },
+    {
+      "case": "kroA200.V100",
+      "seed": 20261140,
+      "key": "kroA200.V100.seed20261140"
+    },
+    {
+      "case": "kroA200.V100",
+      "seed": 20261141,
+      "key": "kroA200.V100.seed20261141"
+    },
+    {
+      "case": "kroA200.V100",
+      "seed": 20261142,
+      "key": "kroA200.V100.seed20261142"
+    },
+    {
+      "case": "kroA200.V100",
+      "seed": 20261143,
+      "key": "kroA200.V100.seed20261143"
+    },
+    {
+      "case": "kroA200.V100",
+      "seed": 20261144,
+      "key": "kroA200.V100.seed20261144"
+    },
+    {
+      "case": "kroA200.V100",
+      "seed": 20261145,
+      "key": "kroA200.V100.seed20261145"
+    },
+    {
+      "case": "kroA200.V100",
+      "seed": 20261146,
+      "key": "kroA200.V100.seed20261146"
+    },
+    {
+      "case": "kroA200.V100",
+      "seed": 20261147,
+      "key": "kroA200.V100.seed20261147"
+    },
+    {
+      "case": "kroA200.V100",
+      "seed": 20261148,
+      "key": "kroA200.V100.seed20261148"
+    },
+    {
+      "case": "kroA200.V100",
+      "seed": 20261149,
+      "key": "kroA200.V100.seed20261149"
+    },
+    {
+      "case": "kroB200.V100",
+      "seed": 20261140,
+      "key": "kroB200.V100.seed20261140"
+    },
+    {
+      "case": "kroB200.V100",
+      "seed": 20261141,
+      "key": "kroB200.V100.seed20261141"
+    },
+    {
+      "case": "kroB200.V100",
+      "seed": 20261142,
+      "key": "kroB200.V100.seed20261142"
+    },
+    {
+      "case": "kroB200.V100",
+      "seed": 20261143,
+      "key": "kroB200.V100.seed20261143"
+    },
+    {
+      "case": "kroB200.V100",
+      "seed": 20261144,
+      "key": "kroB200.V100.seed20261144"
+    },
+    {
+      "case": "kroB200.V100",
+      "seed": 20261145,
+      "key": "kroB200.V100.seed20261145"
+    },
+    {
+      "case": "kroB200.V100",
+      "seed": 20261146,
+      "key": "kroB200.V100.seed20261146"
+    },
+    {
+      "case": "kroB200.V100",
+      "seed": 20261147,
+      "key": "kroB200.V100.seed20261147"
+    },
+    {
+      "case": "kroB200.V100",
+      "seed": 20261148,
+      "key": "kroB200.V100.seed20261148"
+    },
+    {
+      "case": "kroB200.V100",
+      "seed": 20261149,
+      "key": "kroB200.V100.seed20261149"
+    },
+    {
+      "case": "rd400.V100",
+      "seed": 20261140,
+      "key": "rd400.V100.seed20261140"
+    },
+    {
+      "case": "rd400.V100",
+      "seed": 20261141,
+      "key": "rd400.V100.seed20261141"
+    },
+    {
+      "case": "rd400.V100",
+      "seed": 20261142,
+      "key": "rd400.V100.seed20261142"
+    },
+    {
+      "case": "rd400.V100",
+      "seed": 20261143,
+      "key": "rd400.V100.seed20261143"
+    },
+    {
+      "case": "rd400.V100",
+      "seed": 20261144,
+      "key": "rd400.V100.seed20261144"
+    },
+    {
+      "case": "rd400.V100",
+      "seed": 20261145,
+      "key": "rd400.V100.seed20261145"
+    },
+    {
+      "case": "rd400.V100",
+      "seed": 20261146,
+      "key": "rd400.V100.seed20261146"
+    },
+    {
+      "case": "rd400.V100",
+      "seed": 20261147,
+      "key": "rd400.V100.seed20261147"
+    },
+    {
+      "case": "rd400.V100",
+      "seed": 20261148,
+      "key": "rd400.V100.seed20261148"
+    },
+    {
+      "case": "rd400.V100",
+      "seed": 20261149,
+      "key": "rd400.V100.seed20261149"
+    },
+    {
+      "case": "pr299.V105",
+      "seed": 20261140,
+      "key": "pr299.V105.seed20261140"
+    },
+    {
+      "case": "pr299.V105",
+      "seed": 20261141,
+      "key": "pr299.V105.seed20261141"
+    },
+    {
+      "case": "pr299.V105",
+      "seed": 20261142,
+      "key": "pr299.V105.seed20261142"
+    },
+    {
+      "case": "pr299.V105",
+      "seed": 20261143,
+      "key": "pr299.V105.seed20261143"
+    },
+    {
+      "case": "pr299.V105",
+      "seed": 20261144,
+      "key": "pr299.V105.seed20261144"
+    },
+    {
+      "case": "pr299.V105",
+      "seed": 20261145,
+      "key": "pr299.V105.seed20261145"
+    },
+    {
+      "case": "pr299.V105",
+      "seed": 20261146,
+      "key": "pr299.V105.seed20261146"
+    },
+    {
+      "case": "pr299.V105",
+      "seed": 20261147,
+      "key": "pr299.V105.seed20261147"
+    },
+    {
+      "case": "pr299.V105",
+      "seed": 20261148,
+      "key": "pr299.V105.seed20261148"
+    },
+    {
+      "case": "pr299.V105",
+      "seed": 20261149,
+      "key": "pr299.V105.seed20261149"
+    },
+    {
+      "case": "pcb442.V111",
+      "seed": 20261140,
+      "key": "pcb442.V111.seed20261140"
+    },
+    {
+      "case": "pcb442.V111",
+      "seed": 20261141,
+      "key": "pcb442.V111.seed20261141"
+    },
+    {
+      "case": "pcb442.V111",
+      "seed": 20261142,
+      "key": "pcb442.V111.seed20261142"
+    },
+    {
+      "case": "pcb442.V111",
+      "seed": 20261143,
+      "key": "pcb442.V111.seed20261143"
+    },
+    {
+      "case": "pcb442.V111",
+      "seed": 20261144,
+      "key": "pcb442.V111.seed20261144"
+    },
+    {
+      "case": "pcb442.V111",
+      "seed": 20261145,
+      "key": "pcb442.V111.seed20261145"
+    },
+    {
+      "case": "pcb442.V111",
+      "seed": 20261146,
+      "key": "pcb442.V111.seed20261146"
+    },
+    {
+      "case": "pcb442.V111",
+      "seed": 20261147,
+      "key": "pcb442.V111.seed20261147"
+    },
+    {
+      "case": "pcb442.V111",
+      "seed": 20261148,
+      "key": "pcb442.V111.seed20261148"
+    },
+    {
+      "case": "pcb442.V111",
+      "seed": 20261149,
+      "key": "pcb442.V111.seed20261149"
+    },
+    {
+      "case": "lin318.V112",
+      "seed": 20261140,
+      "key": "lin318.V112.seed20261140"
+    },
+    {
+      "case": "lin318.V112",
+      "seed": 20261141,
+      "key": "lin318.V112.seed20261141"
+    },
+    {
+      "case": "lin318.V112",
+      "seed": 20261142,
+      "key": "lin318.V112.seed20261142"
+    },
+    {
+      "case": "lin318.V112",
+      "seed": 20261143,
+      "key": "lin318.V112.seed20261143"
+    },
+    {
+      "case": "lin318.V112",
+      "seed": 20261144,
+      "key": "lin318.V112.seed20261144"
+    },
+    {
+      "case": "lin318.V112",
+      "seed": 20261145,
+      "key": "lin318.V112.seed20261145"
+    },
+    {
+      "case": "lin318.V112",
+      "seed": 20261146,
+      "key": "lin318.V112.seed20261146"
+    },
+    {
+      "case": "lin318.V112",
+      "seed": 20261147,
+      "key": "lin318.V112.seed20261147"
+    },
+    {
+      "case": "lin318.V112",
+      "seed": 20261148,
+      "key": "lin318.V112.seed20261148"
+    },
+    {
+      "case": "lin318.V112",
+      "seed": 20261149,
+      "key": "lin318.V112.seed20261149"
+    },
+    {
+      "case": "d493.V124",
+      "seed": 20261140,
+      "key": "d493.V124.seed20261140"
+    },
+    {
+      "case": "d493.V124",
+      "seed": 20261141,
+      "key": "d493.V124.seed20261141"
+    },
+    {
+      "case": "d493.V124",
+      "seed": 20261142,
+      "key": "d493.V124.seed20261142"
+    },
+    {
+      "case": "d493.V124",
+      "seed": 20261143,
+      "key": "d493.V124.seed20261143"
+    },
+    {
+      "case": "d493.V124",
+      "seed": 20261144,
+      "key": "d493.V124.seed20261144"
+    },
+    {
+      "case": "d493.V124",
+      "seed": 20261145,
+      "key": "d493.V124.seed20261145"
+    },
+    {
+      "case": "d493.V124",
+      "seed": 20261146,
+      "key": "d493.V124.seed20261146"
+    },
+    {
+      "case": "d493.V124",
+      "seed": 20261147,
+      "key": "d493.V124.seed20261147"
+    },
+    {
+      "case": "d493.V124",
+      "seed": 20261148,
+      "key": "d493.V124.seed20261148"
+    },
+    {
+      "case": "d493.V124",
+      "seed": 20261149,
+      "key": "d493.V124.seed20261149"
+    },
+    {
+      "case": "pr264.V132",
+      "seed": 20261140,
+      "key": "pr264.V132.seed20261140"
+    },
+    {
+      "case": "pr264.V132",
+      "seed": 20261141,
+      "key": "pr264.V132.seed20261141"
+    },
+    {
+      "case": "pr264.V132",
+      "seed": 20261142,
+      "key": "pr264.V132.seed20261142"
+    },
+    {
+      "case": "pr264.V132",
+      "seed": 20261143,
+      "key": "pr264.V132.seed20261143"
+    },
+    {
+      "case": "pr264.V132",
+      "seed": 20261144,
+      "key": "pr264.V132.seed20261144"
+    },
+    {
+      "case": "pr264.V132",
+      "seed": 20261145,
+      "key": "pr264.V132.seed20261145"
+    },
+    {
+      "case": "pr264.V132",
+      "seed": 20261146,
+      "key": "pr264.V132.seed20261146"
+    },
+    {
+      "case": "pr264.V132",
+      "seed": 20261147,
+      "key": "pr264.V132.seed20261147"
+    },
+    {
+      "case": "pr264.V132",
+      "seed": 20261148,
+      "key": "pr264.V132.seed20261148"
+    },
+    {
+      "case": "pr264.V132",
+      "seed": 20261149,
+      "key": "pr264.V132.seed20261149"
+    },
+    {
+      "case": "att532.V134",
+      "seed": 20261140,
+      "key": "att532.V134.seed20261140"
+    },
+    {
+      "case": "att532.V134",
+      "seed": 20261141,
+      "key": "att532.V134.seed20261141"
+    },
+    {
+      "case": "att532.V134",
+      "seed": 20261142,
+      "key": "att532.V134.seed20261142"
+    },
+    {
+      "case": "att532.V134",
+      "seed": 20261143,
+      "key": "att532.V134.seed20261143"
+    },
+    {
+      "case": "att532.V134",
+      "seed": 20261144,
+      "key": "att532.V134.seed20261144"
+    },
+    {
+      "case": "att532.V134",
+      "seed": 20261145,
+      "key": "att532.V134.seed20261145"
+    },
+    {
+      "case": "att532.V134",
+      "seed": 20261146,
+      "key": "att532.V134.seed20261146"
+    },
+    {
+      "case": "att532.V134",
+      "seed": 20261147,
+      "key": "att532.V134.seed20261147"
+    },
+    {
+      "case": "att532.V134",
+      "seed": 20261148,
+      "key": "att532.V134.seed20261148"
+    },
+    {
+      "case": "att532.V134",
+      "seed": 20261149,
+      "key": "att532.V134.seed20261149"
+    },
+    {
+      "case": "ali535.V135",
+      "seed": 20261140,
+      "key": "ali535.V135.seed20261140"
+    },
+    {
+      "case": "ali535.V135",
+      "seed": 20261141,
+      "key": "ali535.V135.seed20261141"
+    },
+    {
+      "case": "ali535.V135",
+      "seed": 20261142,
+      "key": "ali535.V135.seed20261142"
+    },
+    {
+      "case": "ali535.V135",
+      "seed": 20261143,
+      "key": "ali535.V135.seed20261143"
+    },
+    {
+      "case": "ali535.V135",
+      "seed": 20261144,
+      "key": "ali535.V135.seed20261144"
+    },
+    {
+      "case": "ali535.V135",
+      "seed": 20261145,
+      "key": "ali535.V135.seed20261145"
+    },
+    {
+      "case": "ali535.V135",
+      "seed": 20261146,
+      "key": "ali535.V135.seed20261146"
+    },
+    {
+      "case": "ali535.V135",
+      "seed": 20261147,
+      "key": "ali535.V135.seed20261147"
+    },
+    {
+      "case": "ali535.V135",
+      "seed": 20261148,
+      "key": "ali535.V135.seed20261148"
+    },
+    {
+      "case": "ali535.V135",
+      "seed": 20261149,
+      "key": "ali535.V135.seed20261149"
+    },
+    {
+      "case": "rd400.V140",
+      "seed": 20261140,
+      "key": "rd400.V140.seed20261140"
+    },
+    {
+      "case": "rd400.V140",
+      "seed": 20261141,
+      "key": "rd400.V140.seed20261141"
+    },
+    {
+      "case": "rd400.V140",
+      "seed": 20261142,
+      "key": "rd400.V140.seed20261142"
+    },
+    {
+      "case": "rd400.V140",
+      "seed": 20261143,
+      "key": "rd400.V140.seed20261143"
+    },
+    {
+      "case": "rd400.V140",
+      "seed": 20261144,
+      "key": "rd400.V140.seed20261144"
+    },
+    {
+      "case": "rd400.V140",
+      "seed": 20261145,
+      "key": "rd400.V140.seed20261145"
+    },
+    {
+      "case": "rd400.V140",
+      "seed": 20261146,
+      "key": "rd400.V140.seed20261146"
+    },
+    {
+      "case": "rd400.V140",
+      "seed": 20261147,
+      "key": "rd400.V140.seed20261147"
+    },
+    {
+      "case": "rd400.V140",
+      "seed": 20261148,
+      "key": "rd400.V140.seed20261148"
+    },
+    {
+      "case": "rd400.V140",
+      "seed": 20261149,
+      "key": "rd400.V140.seed20261149"
+    },
+    {
+      "case": "rat575.V145",
+      "seed": 20261140,
+      "key": "rat575.V145.seed20261140"
+    },
+    {
+      "case": "rat575.V145",
+      "seed": 20261141,
+      "key": "rat575.V145.seed20261141"
+    },
+    {
+      "case": "rat575.V145",
+      "seed": 20261142,
+      "key": "rat575.V145.seed20261142"
+    },
+    {
+      "case": "rat575.V145",
+      "seed": 20261143,
+      "key": "rat575.V145.seed20261143"
+    },
+    {
+      "case": "rat575.V145",
+      "seed": 20261144,
+      "key": "rat575.V145.seed20261144"
+    },
+    {
+      "case": "rat575.V145",
+      "seed": 20261145,
+      "key": "rat575.V145.seed20261145"
+    },
+    {
+      "case": "rat575.V145",
+      "seed": 20261146,
+      "key": "rat575.V145.seed20261146"
+    },
+    {
+      "case": "rat575.V145",
+      "seed": 20261147,
+      "key": "rat575.V145.seed20261147"
+    },
+    {
+      "case": "rat575.V145",
+      "seed": 20261148,
+      "key": "rat575.V145.seed20261148"
+    },
+    {
+      "case": "rat575.V145",
+      "seed": 20261149,
+      "key": "rat575.V145.seed20261149"
+    },
+    {
+      "case": "pr299.V150",
+      "seed": 20261140,
+      "key": "pr299.V150.seed20261140"
+    },
+    {
+      "case": "pr299.V150",
+      "seed": 20261141,
+      "key": "pr299.V150.seed20261141"
+    },
+    {
+      "case": "pr299.V150",
+      "seed": 20261142,
+      "key": "pr299.V150.seed20261142"
+    },
+    {
+      "case": "pr299.V150",
+      "seed": 20261143,
+      "key": "pr299.V150.seed20261143"
+    },
+    {
+      "case": "pr299.V150",
+      "seed": 20261144,
+      "key": "pr299.V150.seed20261144"
+    },
+    {
+      "case": "pr299.V150",
+      "seed": 20261145,
+      "key": "pr299.V150.seed20261145"
+    },
+    {
+      "case": "pr299.V150",
+      "seed": 20261146,
+      "key": "pr299.V150.seed20261146"
+    },
+    {
+      "case": "pr299.V150",
+      "seed": 20261147,
+      "key": "pr299.V150.seed20261147"
+    },
+    {
+      "case": "pr299.V150",
+      "seed": 20261148,
+      "key": "pr299.V150.seed20261148"
+    },
+    {
+      "case": "pr299.V150",
+      "seed": 20261149,
+      "key": "pr299.V150.seed20261149"
+    },
+    {
+      "case": "pcb442.V155",
+      "seed": 20261140,
+      "key": "pcb442.V155.seed20261140"
+    },
+    {
+      "case": "pcb442.V155",
+      "seed": 20261141,
+      "key": "pcb442.V155.seed20261141"
+    },
+    {
+      "case": "pcb442.V155",
+      "seed": 20261142,
+      "key": "pcb442.V155.seed20261142"
+    },
+    {
+      "case": "pcb442.V155",
+      "seed": 20261143,
+      "key": "pcb442.V155.seed20261143"
+    },
+    {
+      "case": "pcb442.V155",
+      "seed": 20261144,
+      "key": "pcb442.V155.seed20261144"
+    },
+    {
+      "case": "pcb442.V155",
+      "seed": 20261145,
+      "key": "pcb442.V155.seed20261145"
+    },
+    {
+      "case": "pcb442.V155",
+      "seed": 20261146,
+      "key": "pcb442.V155.seed20261146"
+    },
+    {
+      "case": "pcb442.V155",
+      "seed": 20261147,
+      "key": "pcb442.V155.seed20261147"
+    },
+    {
+      "case": "pcb442.V155",
+      "seed": 20261148,
+      "key": "pcb442.V155.seed20261148"
+    },
+    {
+      "case": "pcb442.V155",
+      "seed": 20261149,
+      "key": "pcb442.V155.seed20261149"
+    },
+    {
+      "case": "lin318.V159",
+      "seed": 20261140,
+      "key": "lin318.V159.seed20261140"
+    },
+    {
+      "case": "lin318.V159",
+      "seed": 20261141,
+      "key": "lin318.V159.seed20261141"
+    },
+    {
+      "case": "lin318.V159",
+      "seed": 20261142,
+      "key": "lin318.V159.seed20261142"
+    },
+    {
+      "case": "lin318.V159",
+      "seed": 20261143,
+      "key": "lin318.V159.seed20261143"
+    },
+    {
+      "case": "lin318.V159",
+      "seed": 20261144,
+      "key": "lin318.V159.seed20261144"
+    },
+    {
+      "case": "lin318.V159",
+      "seed": 20261145,
+      "key": "lin318.V159.seed20261145"
+    },
+    {
+      "case": "lin318.V159",
+      "seed": 20261146,
+      "key": "lin318.V159.seed20261146"
+    },
+    {
+      "case": "lin318.V159",
+      "seed": 20261147,
+      "key": "lin318.V159.seed20261147"
+    },
+    {
+      "case": "lin318.V159",
+      "seed": 20261148,
+      "key": "lin318.V159.seed20261148"
+    },
+    {
+      "case": "lin318.V159",
+      "seed": 20261149,
+      "key": "lin318.V159.seed20261149"
+    },
+    {
+      "case": "d493.V173",
+      "seed": 20261140,
+      "key": "d493.V173.seed20261140"
+    },
+    {
+      "case": "d493.V173",
+      "seed": 20261141,
+      "key": "d493.V173.seed20261141"
+    },
+    {
+      "case": "d493.V173",
+      "seed": 20261142,
+      "key": "d493.V173.seed20261142"
+    },
+    {
+      "case": "d493.V173",
+      "seed": 20261143,
+      "key": "d493.V173.seed20261143"
+    },
+    {
+      "case": "d493.V173",
+      "seed": 20261144,
+      "key": "d493.V173.seed20261144"
+    },
+    {
+      "case": "d493.V173",
+      "seed": 20261145,
+      "key": "d493.V173.seed20261145"
+    },
+    {
+      "case": "d493.V173",
+      "seed": 20261146,
+      "key": "d493.V173.seed20261146"
+    },
+    {
+      "case": "d493.V173",
+      "seed": 20261147,
+      "key": "d493.V173.seed20261147"
+    },
+    {
+      "case": "d493.V173",
+      "seed": 20261148,
+      "key": "d493.V173.seed20261148"
+    },
+    {
+      "case": "d493.V173",
+      "seed": 20261149,
+      "key": "d493.V173.seed20261149"
+    },
+    {
+      "case": "att532.V187",
+      "seed": 20261140,
+      "key": "att532.V187.seed20261140"
+    },
+    {
+      "case": "att532.V187",
+      "seed": 20261141,
+      "key": "att532.V187.seed20261141"
+    },
+    {
+      "case": "att532.V187",
+      "seed": 20261142,
+      "key": "att532.V187.seed20261142"
+    },
+    {
+      "case": "att532.V187",
+      "seed": 20261143,
+      "key": "att532.V187.seed20261143"
+    },
+    {
+      "case": "att532.V187",
+      "seed": 20261144,
+      "key": "att532.V187.seed20261144"
+    },
+    {
+      "case": "att532.V187",
+      "seed": 20261145,
+      "key": "att532.V187.seed20261145"
+    },
+    {
+      "case": "att532.V187",
+      "seed": 20261146,
+      "key": "att532.V187.seed20261146"
+    },
+    {
+      "case": "att532.V187",
+      "seed": 20261147,
+      "key": "att532.V187.seed20261147"
+    },
+    {
+      "case": "att532.V187",
+      "seed": 20261148,
+      "key": "att532.V187.seed20261148"
+    },
+    {
+      "case": "att532.V187",
+      "seed": 20261149,
+      "key": "att532.V187.seed20261149"
+    },
+    {
+      "case": "ali535.V188",
+      "seed": 20261140,
+      "key": "ali535.V188.seed20261140"
+    },
+    {
+      "case": "ali535.V188",
+      "seed": 20261141,
+      "key": "ali535.V188.seed20261141"
+    },
+    {
+      "case": "ali535.V188",
+      "seed": 20261142,
+      "key": "ali535.V188.seed20261142"
+    },
+    {
+      "case": "ali535.V188",
+      "seed": 20261143,
+      "key": "ali535.V188.seed20261143"
+    },
+    {
+      "case": "ali535.V188",
+      "seed": 20261144,
+      "key": "ali535.V188.seed20261144"
+    },
+    {
+      "case": "ali535.V188",
+      "seed": 20261145,
+      "key": "ali535.V188.seed20261145"
+    },
+    {
+      "case": "ali535.V188",
+      "seed": 20261146,
+      "key": "ali535.V188.seed20261146"
+    },
+    {
+      "case": "ali535.V188",
+      "seed": 20261147,
+      "key": "ali535.V188.seed20261147"
+    },
+    {
+      "case": "ali535.V188",
+      "seed": 20261148,
+      "key": "ali535.V188.seed20261148"
+    },
+    {
+      "case": "ali535.V188",
+      "seed": 20261149,
+      "key": "ali535.V188.seed20261149"
+    },
+    {
+      "case": "rat575.V202",
+      "seed": 20261140,
+      "key": "rat575.V202.seed20261140"
+    },
+    {
+      "case": "rat575.V202",
+      "seed": 20261141,
+      "key": "rat575.V202.seed20261141"
+    },
+    {
+      "case": "rat575.V202",
+      "seed": 20261142,
+      "key": "rat575.V202.seed20261142"
+    },
+    {
+      "case": "rat575.V202",
+      "seed": 20261143,
+      "key": "rat575.V202.seed20261143"
+    },
+    {
+      "case": "rat575.V202",
+      "seed": 20261144,
+      "key": "rat575.V202.seed20261144"
+    },
+    {
+      "case": "rat575.V202",
+      "seed": 20261145,
+      "key": "rat575.V202.seed20261145"
+    },
+    {
+      "case": "rat575.V202",
+      "seed": 20261146,
+      "key": "rat575.V202.seed20261146"
+    },
+    {
+      "case": "rat575.V202",
+      "seed": 20261147,
+      "key": "rat575.V202.seed20261147"
+    },
+    {
+      "case": "rat575.V202",
+      "seed": 20261148,
+      "key": "rat575.V202.seed20261148"
+    },
+    {
+      "case": "rat575.V202",
+      "seed": 20261149,
+      "key": "rat575.V202.seed20261149"
+    },
+    {
+      "case": "pcb442.V221",
+      "seed": 20261140,
+      "key": "pcb442.V221.seed20261140"
+    },
+    {
+      "case": "pcb442.V221",
+      "seed": 20261141,
+      "key": "pcb442.V221.seed20261141"
+    },
+    {
+      "case": "pcb442.V221",
+      "seed": 20261142,
+      "key": "pcb442.V221.seed20261142"
+    },
+    {
+      "case": "pcb442.V221",
+      "seed": 20261143,
+      "key": "pcb442.V221.seed20261143"
+    },
+    {
+      "case": "pcb442.V221",
+      "seed": 20261144,
+      "key": "pcb442.V221.seed20261144"
+    },
+    {
+      "case": "pcb442.V221",
+      "seed": 20261145,
+      "key": "pcb442.V221.seed20261145"
+    },
+    {
+      "case": "pcb442.V221",
+      "seed": 20261146,
+      "key": "pcb442.V221.seed20261146"
+    },
+    {
+      "case": "pcb442.V221",
+      "seed": 20261147,
+      "key": "pcb442.V221.seed20261147"
+    },
+    {
+      "case": "pcb442.V221",
+      "seed": 20261148,
+      "key": "pcb442.V221.seed20261148"
+    },
+    {
+      "case": "pcb442.V221",
+      "seed": 20261149,
+      "key": "pcb442.V221.seed20261149"
+    },
+    {
+      "case": "d493.V247",
+      "seed": 20261140,
+      "key": "d493.V247.seed20261140"
+    },
+    {
+      "case": "d493.V247",
+      "seed": 20261141,
+      "key": "d493.V247.seed20261141"
+    },
+    {
+      "case": "d493.V247",
+      "seed": 20261142,
+      "key": "d493.V247.seed20261142"
+    },
+    {
+      "case": "d493.V247",
+      "seed": 20261143,
+      "key": "d493.V247.seed20261143"
+    },
+    {
+      "case": "d493.V247",
+      "seed": 20261144,
+      "key": "d493.V247.seed20261144"
+    },
+    {
+      "case": "d493.V247",
+      "seed": 20261145,
+      "key": "d493.V247.seed20261145"
+    },
+    {
+      "case": "d493.V247",
+      "seed": 20261146,
+      "key": "d493.V247.seed20261146"
+    },
+    {
+      "case": "d493.V247",
+      "seed": 20261147,
+      "key": "d493.V247.seed20261147"
+    },
+    {
+      "case": "d493.V247",
+      "seed": 20261148,
+      "key": "d493.V247.seed20261148"
+    },
+    {
+      "case": "d493.V247",
+      "seed": 20261149,
+      "key": "d493.V247.seed20261149"
+    },
+    {
+      "case": "att532.V266",
+      "seed": 20261140,
+      "key": "att532.V266.seed20261140"
+    },
+    {
+      "case": "att532.V266",
+      "seed": 20261141,
+      "key": "att532.V266.seed20261141"
+    },
+    {
+      "case": "att532.V266",
+      "seed": 20261142,
+      "key": "att532.V266.seed20261142"
+    },
+    {
+      "case": "att532.V266",
+      "seed": 20261143,
+      "key": "att532.V266.seed20261143"
+    },
+    {
+      "case": "att532.V266",
+      "seed": 20261144,
+      "key": "att532.V266.seed20261144"
+    },
+    {
+      "case": "att532.V266",
+      "seed": 20261145,
+      "key": "att532.V266.seed20261145"
+    },
+    {
+      "case": "att532.V266",
+      "seed": 20261146,
+      "key": "att532.V266.seed20261146"
+    },
+    {
+      "case": "att532.V266",
+      "seed": 20261147,
+      "key": "att532.V266.seed20261147"
+    },
+    {
+      "case": "att532.V266",
+      "seed": 20261148,
+      "key": "att532.V266.seed20261148"
+    },
+    {
+      "case": "att532.V266",
+      "seed": 20261149,
+      "key": "att532.V266.seed20261149"
+    },
+    {
+      "case": "ali535.V268",
+      "seed": 20261140,
+      "key": "ali535.V268.seed20261140"
+    },
+    {
+      "case": "ali535.V268",
+      "seed": 20261141,
+      "key": "ali535.V268.seed20261141"
+    },
+    {
+      "case": "ali535.V268",
+      "seed": 20261142,
+      "key": "ali535.V268.seed20261142"
+    },
+    {
+      "case": "ali535.V268",
+      "seed": 20261143,
+      "key": "ali535.V268.seed20261143"
+    },
+    {
+      "case": "ali535.V268",
+      "seed": 20261144,
+      "key": "ali535.V268.seed20261144"
+    },
+    {
+      "case": "ali535.V268",
+      "seed": 20261145,
+      "key": "ali535.V268.seed20261145"
+    },
+    {
+      "case": "ali535.V268",
+      "seed": 20261146,
+      "key": "ali535.V268.seed20261146"
+    },
+    {
+      "case": "ali535.V268",
+      "seed": 20261147,
+      "key": "ali535.V268.seed20261147"
+    },
+    {
+      "case": "ali535.V268",
+      "seed": 20261148,
+      "key": "ali535.V268.seed20261148"
+    },
+    {
+      "case": "ali535.V268",
+      "seed": 20261149,
+      "key": "ali535.V268.seed20261149"
+    },
+    {
+      "case": "rat575.V288",
+      "seed": 20261140,
+      "key": "rat575.V288.seed20261140"
+    },
+    {
+      "case": "rat575.V288",
+      "seed": 20261141,
+      "key": "rat575.V288.seed20261141"
+    },
+    {
+      "case": "rat575.V288",
+      "seed": 20261142,
+      "key": "rat575.V288.seed20261142"
+    },
+    {
+      "case": "rat575.V288",
+      "seed": 20261143,
+      "key": "rat575.V288.seed20261143"
+    },
+    {
+      "case": "rat575.V288",
+      "seed": 20261144,
+      "key": "rat575.V288.seed20261144"
+    },
+    {
+      "case": "rat575.V288",
+      "seed": 20261145,
+      "key": "rat575.V288.seed20261145"
+    },
+    {
+      "case": "rat575.V288",
+      "seed": 20261146,
+      "key": "rat575.V288.seed20261146"
+    },
+    {
+      "case": "rat575.V288",
+      "seed": 20261147,
+      "key": "rat575.V288.seed20261147"
+    },
+    {
+      "case": "rat575.V288",
+      "seed": 20261148,
+      "key": "rat575.V288.seed20261148"
+    },
+    {
+      "case": "rat575.V288",
+      "seed": 20261149,
+      "key": "rat575.V288.seed20261149"
+    }
+  ],
+  "planned": 590,
+  "iterations": 30000,
+  "initial_protocol_sha256": "d12fc0c15f81dbbaecf6c082405bfc4653359d284ae45727e73ab6ab2d9798af",
+  "alns_mode": "M",
+  "alns_timeout": 1800,
+  "safety_seconds": 1800,
+  "label_cap": 2000000,
+  "window_sizes": [
+    4,
+    6
+  ],
+  "max_candidates": 16,
+  "max_passes": 3,
+  "mip_seconds_per_window": 1.0,
+  "minimum_visits": 2,
+  "cpus": [
+    0,
+    2
+  ],
+  "source_hashes": {
+    "research/ctp/matheuristic/all59.py": "4160dd017d0e5a28c18319fd7738ddc62d7117dd3f1d8f2cec3360aeef4833c7",
+    "research/ctp/matheuristic/micro_mip_batch.py": "c1165b6c3382df93f489d9295db4333f752a3177bed7be05b9c4e6fb627ef544",
+    "research/ctp/matheuristic/all59_report.py": "03a4f754a2c3d181bfbd2e0791ae49a7a18b446586d474d86de4fde250f7d1e6",
+    "research/ctp/replication_v2/data_audit.py": "101ef69e9e9ea744d8d0c185ca1c4d7562f2ef8906eb5ced74f5a031e44bd62d",
+    "research/ctp/src/instances.py": "91a254a99becbd11ba30d04ad57aa472d66cfc1e3b6779e68cd38bc00de79cee",
+    "research/ctp/src/native_bridge.py": "a423b868279b911cbbf554aa70084b32dee3ce4b78702de21a831cad16958458"
+  },
+  "binary_sha256": "759f18afe83d7b41262163ec1c6917d0021d1ca2200250efd406e5a796648422",
+  "reference_protocol_sha256": "8553636e70ea50e782c5bd634f08e97af9e552fc648f4f77a4b4b1eef5c813f8",
+  "inputs": {
+    "kroA100.V25": {
+      "data_sha256": "e103100c1cf31dfc06be95a9d04011b5a8753bb65a3339594ca34404e574bdf5",
+      "matrix_sha256": "1bc1d62e837b6a3fb643d5f8e234dca535ad2d5f2ce3042c01d182e3ff8d4da9",
+      "masks_sha256": "71d203d0bc1baf3f4b3a58339ce9e180a0e085420cb1a7a84cc4b46d7f930a20"
+    },
+    "kroA150.V25": {
+      "data_sha256": "acfeddc0cf4dd78ae69dd0c379b52b4031a4a8daa61a0cab3f46c1e3e2a616ba",
+      "matrix_sha256": "1bc1d62e837b6a3fb643d5f8e234dca535ad2d5f2ce3042c01d182e3ff8d4da9",
+      "masks_sha256": "0cb230da600ba1e9c2f3c94ccf2bfcc10d582aeae4dae92b955357c8876425d5"
+    },
+    "kroA200.V25": {
+      "data_sha256": "fd1f7640e823286826796bfccd103787c25f0b52e7275fae7eabf286303c0cbe",
+      "matrix_sha256": "649d0a6398500c0d89769aa6a9b3b687e9affbcf5fe158569917f1d9aeca1ff6",
+      "masks_sha256": "be05ab7f8038f3f5ca5dd624f2852d0767f7f4998dbfff156940129882dd7029"
+    },
+    "kroB100.V25": {
+      "data_sha256": "283d8c912e3334deea76cc9fe95e915d09111979e7753d0affaf14d9aa21cdbe",
+      "matrix_sha256": "fa443ef5283a661e4a6890c8a77017814cea7a2fcb80078996a054f794a7bab6",
+      "masks_sha256": "9c34467bd53431429cc27a6ab9ebfeaaf80c7ee4be334449aa98655eb2bff65a"
+    },
+    "kroB150.V25": {
+      "data_sha256": "f6c573fc55f60d90573f09cee01c0c6e09eef87f1315ac8fb6cd2719a1cfd468",
+      "matrix_sha256": "649d0a6398500c0d89769aa6a9b3b687e9affbcf5fe158569917f1d9aeca1ff6",
+      "masks_sha256": "5dc69447b1d396e65246b4ad44ce1e6cd867be1f792f12f7deefe95c8f82ba9d"
+    },
+    "kroB200.V25": {
+      "data_sha256": "baa5fbfda220b226623cad864e30feb180889d4fff430332667eae0e726799d2",
+      "matrix_sha256": "fa443ef5283a661e4a6890c8a77017814cea7a2fcb80078996a054f794a7bab6",
+      "masks_sha256": "f55b944e5b90ca1bc2216e575989caa589693bf465a0cafa6eedd5dcb9e267c7"
+    },
+    "kroC100.V25": {
+      "data_sha256": "aef750b8051e011df3b0fae21f4d71273cf129bcf7f2a9b697c2406bcaec68d2",
+      "matrix_sha256": "649d0a6398500c0d89769aa6a9b3b687e9affbcf5fe158569917f1d9aeca1ff6",
+      "masks_sha256": "e2abaeebef06c3556dec7a2f79cd48344a9ab2f158245345af1dcb7642fc9f99"
+    },
+    "kroD100.V25": {
+      "data_sha256": "e2297d9c40abc8341792e7b785e7a9c04ed21dfda0c667d9388888b4ba8cb52d",
+      "matrix_sha256": "2c8ad1b619266c5cdc1b0cdb2e6c8bf2de410aabeba69c6562896c243abe649a",
+      "masks_sha256": "2d81f0b0e4433497fd2aae1c9c1e8c5e5bd3d0535d0430156dd5a90a6c7e66c9"
+    },
+    "kroE100.V25": {
+      "data_sha256": "de5a20663b3903407150d1798c9be517d2df2030d7a910ddc9fc3c024a5c3bb4",
+      "matrix_sha256": "c3e9b16b4d4d79252f555f2ca0bd91ddbbb508384e6add152b9670d57c4dfd3c",
+      "masks_sha256": "6d30d4e38a63db18827815a58bc09097d43683f34e369c11f9fe18098d60631f"
+    },
+    "pr264.V40": {
+      "data_sha256": "af8238a6cc962d77d50d4d8b3f0c9099fe972f7858994ef8cf4ccb2d31b2e6c0",
+      "matrix_sha256": "e0cd6dd5081e8e381fc1ee2dc50c9bbe56b5f68443eed7c2c3f1d59588acb7ba",
+      "masks_sha256": "f221d1ba7edc6a7dd8861c811f20801767d7df00afc2112a44c23574ce73b799"
+    },
+    "pr299.V45": {
+      "data_sha256": "5d6f56b38a570e6cb30742b5ef112026f18600828a80993c3f047d20760d976f",
+      "matrix_sha256": "2388dae732c1165956d1a99f849fad1eb6c5e3f074bcf71556a970c00696d4b8",
+      "masks_sha256": "1681c5c81b3ee7dd0c563aaf89a1dae83351a3b9741d2044676342a69350bb95"
+    },
+    "lin318.V48": {
+      "data_sha256": "0de63cddb2a3ae9b10f3eaee4390ece107e2355445cdb5240db65a90eb1fe5fc",
+      "matrix_sha256": "cf33d6377931daedd7fcbe351367a9c37b2e8648e1e8e0d76088f6494979493b",
+      "masks_sha256": "2d09a7591382fc978c0e44cc4c5cf633ba40c88ec8846a1d80724645264e4555"
+    },
+    "kroA100.V50": {
+      "data_sha256": "e103100c1cf31dfc06be95a9d04011b5a8753bb65a3339594ca34404e574bdf5",
+      "matrix_sha256": "218603281063daa7a30a054bf1cc136e9296c1ec20f4ddb1ffecb43c80048af4",
+      "masks_sha256": "0d0fbd6920a425e026ab3103bca1a949428d81ff68a970d737c23fa1c7882015"
+    },
+    "kroA150.V50": {
+      "data_sha256": "acfeddc0cf4dd78ae69dd0c379b52b4031a4a8daa61a0cab3f46c1e3e2a616ba",
+      "matrix_sha256": "218603281063daa7a30a054bf1cc136e9296c1ec20f4ddb1ffecb43c80048af4",
+      "masks_sha256": "2f70864bcb474ea88a6b20b918c109795b6633453650ea1cebc7e0c0ed782fb8"
+    },
+    "kroA200.V50": {
+      "data_sha256": "fd1f7640e823286826796bfccd103787c25f0b52e7275fae7eabf286303c0cbe",
+      "matrix_sha256": "4b92f9ded46de335b19b6ff7c4bc6aab1a74787c68be4bcea121021f831e5809",
+      "masks_sha256": "2484e72a4cec6a22f5f11b467ae7da7ad5231ad1831708791cbe9de7ba49e9d0"
+    },
+    "kroB100.V50": {
+      "data_sha256": "283d8c912e3334deea76cc9fe95e915d09111979e7753d0affaf14d9aa21cdbe",
+      "matrix_sha256": "b9c9e69e6239647297241fa640831d61eee75b4d5bf5edb414cde8cad9d70cfc",
+      "masks_sha256": "8b7e63827cad58dd457b675e4b005c7be0fe3bc4562c081162484cc1dd7d6988"
+    },
+    "kroB150.V50": {
+      "data_sha256": "f6c573fc55f60d90573f09cee01c0c6e09eef87f1315ac8fb6cd2719a1cfd468",
+      "matrix_sha256": "4b92f9ded46de335b19b6ff7c4bc6aab1a74787c68be4bcea121021f831e5809",
+      "masks_sha256": "71e066f7199398cb55d1981d75f67f7b254e4e08e4123dfd2ad6c44853da4ce9"
+    },
+    "kroB200.V50": {
+      "data_sha256": "baa5fbfda220b226623cad864e30feb180889d4fff430332667eae0e726799d2",
+      "matrix_sha256": "b9c9e69e6239647297241fa640831d61eee75b4d5bf5edb414cde8cad9d70cfc",
+      "masks_sha256": "dad8b13d5db96870583d444c41996fe149a4dfb294b99f897935207b9fb842b8"
+    },
+    "kroC100.V50": {
+      "data_sha256": "aef750b8051e011df3b0fae21f4d71273cf129bcf7f2a9b697c2406bcaec68d2",
+      "matrix_sha256": "4b92f9ded46de335b19b6ff7c4bc6aab1a74787c68be4bcea121021f831e5809",
+      "masks_sha256": "7c500c9956d7154aac67fb7094feccbbfe810c6c584a642b3516d172b8c0bcc9"
+    },
+    "kroD100.V50": {
+      "data_sha256": "e2297d9c40abc8341792e7b785e7a9c04ed21dfda0c667d9388888b4ba8cb52d",
+      "matrix_sha256": "5224361a5e9bfbb30ef689bb21785fbc94e125b39b421ef33cb49a194408ca37",
+      "masks_sha256": "cbdca7aab0aac1839e8576cf502e350a1610a9e720db65f5351e61cd01cbc181"
+    },
+    "kroE100.V50": {
+      "data_sha256": "de5a20663b3903407150d1798c9be517d2df2030d7a910ddc9fc3c024a5c3bb4",
+      "matrix_sha256": "b4350a61f81fee946a0d69e608c6e683a3d355a18f59524017e7d822c5781493",
+      "masks_sha256": "47e30f55ee579669c713b0dab5bfdf7319d71f4eb08807bc8b1edee7d09f4458"
+    },
+    "rd400.V60": {
+      "data_sha256": "1f2543164d67d93eaea4537f3033a94fa8f14d105f3caf8a817abaddcd346693",
+      "matrix_sha256": "837d3fca938a6f1aa9f96828815575db142d19be62e6c4f8a9c1d50d14efcd90",
+      "masks_sha256": "6e8487f19cbe5a1254d5dd3aad970e9730df17cdea535566dce5ccc1b520cb46"
+    },
+    "pr264.V66": {
+      "data_sha256": "af8238a6cc962d77d50d4d8b3f0c9099fe972f7858994ef8cf4ccb2d31b2e6c0",
+      "matrix_sha256": "f7a282c6dd2b18e1a4d96b81aca6bbc5c3ceff09048865d1f7c74d6e1e0d3d0c",
+      "masks_sha256": "4492a4eca2e7d3023d30c2f525831939e1d5556cca52162b11e2f89534e6daee"
+    },
+    "pcb442.V67": {
+      "data_sha256": "0f58bc2f1aa0023764ebc14b3b0dcb6e765ffe173963fdc1cb8443d969842b51",
+      "matrix_sha256": "c0dd8568d5464f2c437db5937b376c4097fc494899a2e5f52c67d3a1d9cee318",
+      "masks_sha256": "1d4f78978b35ebdfe4811ad8c2a1c7c4709127df5bc285934770d52d16213d1f"
+    },
+    "d493.V75": {
+      "data_sha256": "a017d8773a1bb279356929a3dd196df11d3fae7b9d45cc5e92d3385616252820",
+      "matrix_sha256": "c01cdd6def0982f122a66981e3f53d5a3f1e2c596375d1af7c8763d9faf68d5f",
+      "masks_sha256": "27cd6303d4d356ac654d5f1893f5425848a41f4af88afc90e8daf540a44d9bb7"
+    },
+    "kroA150.V75": {
+      "data_sha256": "acfeddc0cf4dd78ae69dd0c379b52b4031a4a8daa61a0cab3f46c1e3e2a616ba",
+      "matrix_sha256": "9fbc20149861b654bcb0a50cfd60ba87c624dcbdd3fe9b853597fa0f339bbb34",
+      "masks_sha256": "09b984ef6622d1c324df75834fb9383051d33eabb0af88de85697ad5ad7b5d69"
+    },
+    "kroA200.V75": {
+      "data_sha256": "fd1f7640e823286826796bfccd103787c25f0b52e7275fae7eabf286303c0cbe",
+      "matrix_sha256": "1fea28d92f8ee04d17c1f2465c81c181ac7b10640cc6afced86359940a2ed8b4",
+      "masks_sha256": "6d7f77382b442803550d87a75cb18ee7d380c2ed21bbe1fcb76a904a9e3f511d"
+    },
+    "kroB150.V75": {
+      "data_sha256": "f6c573fc55f60d90573f09cee01c0c6e09eef87f1315ac8fb6cd2719a1cfd468",
+      "matrix_sha256": "1fea28d92f8ee04d17c1f2465c81c181ac7b10640cc6afced86359940a2ed8b4",
+      "masks_sha256": "778713ab092a41409c65de3cc9419e62e1b4d6c47c709c078ab1a330fd1c5053"
+    },
+    "kroB200.V75": {
+      "data_sha256": "baa5fbfda220b226623cad864e30feb180889d4fff430332667eae0e726799d2",
+      "matrix_sha256": "d6a349f628e7df18bed33a94fa2551dea80ebacd3b4608eb00b3244044c2286e",
+      "masks_sha256": "78ac6f715b4102251b919625e1069cf1e47a24071cc7c806ed249a2f79547bd6"
+    },
+    "pr299.V75": {
+      "data_sha256": "5d6f56b38a570e6cb30742b5ef112026f18600828a80993c3f047d20760d976f",
+      "matrix_sha256": "39824c324cda89d4c0c29e2ca040bae6e8832f085466cce3c891b92ebb17dac3",
+      "masks_sha256": "68dc781e72d71bf84444e9e886f781ac066fa2d263a9f81ca7fc964c49f1c742"
+    },
+    "lin318.V80": {
+      "data_sha256": "0de63cddb2a3ae9b10f3eaee4390ece107e2355445cdb5240db65a90eb1fe5fc",
+      "matrix_sha256": "c74eb234582c871d47989190bd6902def403e75e3b40a8b59b9dc2715b35d008",
+      "masks_sha256": "0ddaf9b87b082a600bd0f13ccc69edb0b808ebac07afd76a643f47f6462862ed"
+    },
+    "ali535.V81": {
+      "data_sha256": "1c4311ae8004b217b3fac7c54e1acaa8fa0ecd11ae814790d297b5d45f36b356",
+      "matrix_sha256": "776bf9c1aec3a2a4733f3cfd629edc6b7dffc047ca0f6d65986be22b0237300c",
+      "masks_sha256": "fd02319282b22590df0f6438fb0e62abba7b633978815e87818828db295e2ace"
+    },
+    "att532.V81": {
+      "data_sha256": "ac1707613da7f07e65604dbfb52bdbcfe572747f01e776cc82d39659b52b18fc",
+      "matrix_sha256": "1f228029105659d419d1753f0fffda43414a468025696ca7eaebbf66930d2646",
+      "masks_sha256": "cd77746619ad7aeefa08292d40db2732898c9b5e0f98cd1cd040558abf465938"
+    },
+    "rat575.V87": {
+      "data_sha256": "7790177e38dba62ddd3823e4ac94aa677fb8b518a8e1e8a70bbe604529fd8619",
+      "matrix_sha256": "ebed33aa03c1a11ad6706627237222caa7a1d1538e79d2757ba324825170a61c",
+      "masks_sha256": "f730235ec3d4ca9c4d216115927924fefd35fcdfb30b5815ba86a9863f0f115a"
+    },
+    "pr264.V92": {
+      "data_sha256": "af8238a6cc962d77d50d4d8b3f0c9099fe972f7858994ef8cf4ccb2d31b2e6c0",
+      "matrix_sha256": "f49415c074e0596bc711a5ec1a611a03d8c08746b0d6d93d9cc30f00a91fce4c",
+      "masks_sha256": "70d0e2aa2717c2b401dfa2591d72c488bb7574944246f365b1e829510394e26c"
+    },
+    "kroA200.V100": {
+      "data_sha256": "fd1f7640e823286826796bfccd103787c25f0b52e7275fae7eabf286303c0cbe",
+      "matrix_sha256": "860c9e9d46ea79064389e0983d875c0470f790bff7a66445e2aef6af3c279a06",
+      "masks_sha256": "61dce6d7b3c9ea2e8e2cf92feec1bcced99b8c5f876a0d2736434d709817fccf"
+    },
+    "kroB200.V100": {
+      "data_sha256": "baa5fbfda220b226623cad864e30feb180889d4fff430332667eae0e726799d2",
+      "matrix_sha256": "e072b09ae0cb03f18218d7db69e3c38f1be0b9808ef5c714ebdac85135555cbc",
+      "masks_sha256": "f47cc04d8b5bbc6c296df10698d91427dd93bb4e18661babe2c7a5ace4e596c9"
+    },
+    "rd400.V100": {
+      "data_sha256": "1f2543164d67d93eaea4537f3033a94fa8f14d105f3caf8a817abaddcd346693",
+      "matrix_sha256": "fd226790e3747d034355d8c1d5ae8cee7ffc6ad36b328b88edaa7b9fe67e2226",
+      "masks_sha256": "6ed1ffb72f11037cfc1b1b199b7c884efc07acbc31caf6172621d35cafafd6d2"
+    },
+    "pr299.V105": {
+      "data_sha256": "5d6f56b38a570e6cb30742b5ef112026f18600828a80993c3f047d20760d976f",
+      "matrix_sha256": "f27845cfc9d1f26dfd94443ba4a8a71696c7306add3f17ae4118cb3a6f7246b2",
+      "masks_sha256": "54324563ff67df06dac8c959876f3990c756924cb45505ba450317530fae9e4a"
+    },
+    "pcb442.V111": {
+      "data_sha256": "0f58bc2f1aa0023764ebc14b3b0dcb6e765ffe173963fdc1cb8443d969842b51",
+      "matrix_sha256": "0c353523e2aaf9a9e1d6113a6e24815042ecd0f514292b349f290d1835c6b4cd",
+      "masks_sha256": "daae6d3b35f829453043b2b8e11d187d0dd04ee0f61c5d781ac01db73eae3ad5"
+    },
+    "lin318.V112": {
+      "data_sha256": "0de63cddb2a3ae9b10f3eaee4390ece107e2355445cdb5240db65a90eb1fe5fc",
+      "matrix_sha256": "c897f60f2b54aebf06c59ed1a1e108499f95bc25684b65e93a8acba1febcf859",
+      "masks_sha256": "37dd890ac93d31329668de2f5412d395835c42219a3d146c682f0565121a564e"
+    },
+    "d493.V124": {
+      "data_sha256": "a017d8773a1bb279356929a3dd196df11d3fae7b9d45cc5e92d3385616252820",
+      "matrix_sha256": "781677bed3ad29a64a60924829965533cee6d4c6cf83e4cd0aae72dc5dd654b3",
+      "masks_sha256": "fedb544ed9d0c3ec984de1f7d76398b114a6914dd0215ee32b06cc264a8ba4ce"
+    },
+    "pr264.V132": {
+      "data_sha256": "af8238a6cc962d77d50d4d8b3f0c9099fe972f7858994ef8cf4ccb2d31b2e6c0",
+      "matrix_sha256": "a01e3ef6a257c05df412ad7d8d8fd4db08e29ec0029197ee28e195920c2578a8",
+      "masks_sha256": "0a3caef48db1e6ed150416967b695307f5eee35db4ebc0d7d97a9585453cddc2"
+    },
+    "att532.V134": {
+      "data_sha256": "ac1707613da7f07e65604dbfb52bdbcfe572747f01e776cc82d39659b52b18fc",
+      "matrix_sha256": "ce182794f316df248f4dced05176035d75c5595bae27499c111d02d2288ad44e",
+      "masks_sha256": "39af8d1aed5e513879bf2ee8183128b4ed9d10ee8c3699d256f24285348705b2"
+    },
+    "ali535.V135": {
+      "data_sha256": "1c4311ae8004b217b3fac7c54e1acaa8fa0ecd11ae814790d297b5d45f36b356",
+      "matrix_sha256": "86fcf39d120cfcb9ca2f2afba3ace14452c9cc2cd8d0dbda339642094cf48022",
+      "masks_sha256": "a0e07978fc6aae94cd84b5df7c2d79e3742f98bf0de53e8a41430332e1b931ab"
+    },
+    "rd400.V140": {
+      "data_sha256": "1f2543164d67d93eaea4537f3033a94fa8f14d105f3caf8a817abaddcd346693",
+      "matrix_sha256": "4e9dfbba6ad4bba202af1e52affb604f07b298e839fc6cbd7a7e82ece1abd5c8",
+      "masks_sha256": "31490ce8b57c7798d7f9920840bc6870a815f212c47c2dd87e308cda8a7560e1"
+    },
+    "rat575.V145": {
+      "data_sha256": "7790177e38dba62ddd3823e4ac94aa677fb8b518a8e1e8a70bbe604529fd8619",
+      "matrix_sha256": "90a8b815b86aaf8b4522bbbb05bc4bb68ebd6a80b17434a17ae9d4ae10f6b951",
+      "masks_sha256": "cc332187217921ae0a0d8127b93be36f99ce4546f418339734173617b95a0a37"
+    },
+    "pr299.V150": {
+      "data_sha256": "5d6f56b38a570e6cb30742b5ef112026f18600828a80993c3f047d20760d976f",
+      "matrix_sha256": "8e0b6610c907a99320574a3c9be215e2233f91f9ed02b99c8ed6082d5b7a0fbb",
+      "masks_sha256": "1b5502444c9f82c0f804088966ba24ae44917d300b6cb91087880ca15a6e62e3"
+    },
+    "pcb442.V155": {
+      "data_sha256": "0f58bc2f1aa0023764ebc14b3b0dcb6e765ffe173963fdc1cb8443d969842b51",
+      "matrix_sha256": "066643b195d60c437edcebd2f07bcc4c58a66783081460d9cda67df4cdc894d9",
+      "masks_sha256": "e874a9d1cfe45575b00c35d15ad917206b2d8b314c19cd0f009615b6503d784a"
+    },
+    "lin318.V159": {
+      "data_sha256": "0de63cddb2a3ae9b10f3eaee4390ece107e2355445cdb5240db65a90eb1fe5fc",
+      "matrix_sha256": "aa997fb1bdc960ed3c38ee92a8a86cc9483973d0e546290463abadd1eb05944b",
+      "masks_sha256": "cd98bdc967176f3913a7a679741cdf083429dee4a149118f743e19533c245855"
+    },
+    "d493.V173": {
+      "data_sha256": "a017d8773a1bb279356929a3dd196df11d3fae7b9d45cc5e92d3385616252820",
+      "matrix_sha256": "9e6de7c4bd74226f1723e79a9f97f6000732ceaaf385facc2ddd1184b9b95f4c",
+      "masks_sha256": "3206849f11b204bf0b4f1d9aefe2b2fd5e76bc27638a6615536ac8908e9492e6"
+    },
+    "att532.V187": {
+      "data_sha256": "ac1707613da7f07e65604dbfb52bdbcfe572747f01e776cc82d39659b52b18fc",
+      "matrix_sha256": "0f16f625f99f17e9e059e28945484a811d770930703f8fb7b772273c7b9e4733",
+      "masks_sha256": "086baa048c594a497c5a8be8367c3b145cb553d85c0a1b59214751c09a846d61"
+    },
+    "ali535.V188": {
+      "data_sha256": "1c4311ae8004b217b3fac7c54e1acaa8fa0ecd11ae814790d297b5d45f36b356",
+      "matrix_sha256": "dd86f310a574ef571f0a18ba4aea9d6654d53a7dfc65e006c1f5f085d1e459ed",
+      "masks_sha256": "d3fdda5eeedc0c1a58c3c353393c593171e821c7b950be650fc8eb92132aa54f"
+    },
+    "rat575.V202": {
+      "data_sha256": "7790177e38dba62ddd3823e4ac94aa677fb8b518a8e1e8a70bbe604529fd8619",
+      "matrix_sha256": "004cc249bf6155e798b5d670a248f5fee0dfed671714f7c851b4eb4044b2c869",
+      "masks_sha256": "2f7329c943362a2ab45b7c13672bbcd9f8707bb6d37813ea310c4f1eefa27e66"
+    },
+    "pcb442.V221": {
+      "data_sha256": "0f58bc2f1aa0023764ebc14b3b0dcb6e765ffe173963fdc1cb8443d969842b51",
+      "matrix_sha256": "012ab35314426850ce0324bcb7d10e7c431144060017b3fdd243aeb96a7b3827",
+      "masks_sha256": "7b99cdbfd7d272d3f819755a0df59c163817f2a8b1fe92557bd9dd13bf85e1b8"
+    },
+    "d493.V247": {
+      "data_sha256": "a017d8773a1bb279356929a3dd196df11d3fae7b9d45cc5e92d3385616252820",
+      "matrix_sha256": "7c23a7c02873e7715ffc17f4b5257b8b5ec39df89756be5f9f0e0aa45d86dd2a",
+      "masks_sha256": "abfb05ba9f861ef8016ec0b8277e44fb76bdf769aebc618f821ff03583b56b59"
+    },
+    "att532.V266": {
+      "data_sha256": "ac1707613da7f07e65604dbfb52bdbcfe572747f01e776cc82d39659b52b18fc",
+      "matrix_sha256": "453908ece0612444d6dc2a731f0ce100330e326bf2865c6518db0f98a1a67f03",
+      "masks_sha256": "69b55ca891c00b677f59f871fdf1ffe0fcdfab5a9de38e37156d6915b478f206"
+    },
+    "ali535.V268": {
+      "data_sha256": "1c4311ae8004b217b3fac7c54e1acaa8fa0ecd11ae814790d297b5d45f36b356",
+      "matrix_sha256": "99c8dd199788bd6e014d74dd4700664d8e19e4028119405d203eb06e753d37ea",
+      "masks_sha256": "2c6a5e4c47483c901b4cb87378c58173cf4305f3983cc98bf2afb954a2fb5119"
+    },
+    "rat575.V288": {
+      "data_sha256": "7790177e38dba62ddd3823e4ac94aa677fb8b518a8e1e8a70bbe604529fd8619",
+      "matrix_sha256": "80237dcbbe48db0ccebdf731e3918295181a9cd7693481587ebbe3e3ae813eaa",
+      "masks_sha256": "75fcb0c874969a0dd471cb2891df18dfaa9f3182e90e5fcbd64a17dc816d94f0"
+    }
+  },
+  "host": {
+    "system": "Linux",
+    "node": "apolo",
+    "release": "7.0.0-34-generic",
+    "version": "#34~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep  4 15:38:29 UTC 2",
+    "machine": "x86_64",
+    "processor": "x86_64"
+  },
+  "created_unix": 1793912041.5978906,
+  "interpretation": "ALNS 30000 plus extra polishing time. Not an equal-time superiority test; no MDM.",
+  "missing_case": "Paper announces 60; only 59 explicit configurations identified",
+  "failure_policy": "Preserve logs; stop admissions on environment failure; accept scientific TO (CENSORED) on safety limit 1800s or label cap 2000000 matching Vargas 2017"
+}

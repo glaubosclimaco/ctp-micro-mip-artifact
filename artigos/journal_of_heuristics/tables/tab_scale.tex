@@ -1,0 +1,20 @@
+\begin{table}[t]
+\centering
+\caption{Polisher performance by instance size $|V|$. ``Censored'' runs are those whose ALNS stage hit the 1800~s cut-off; the last two columns exclude them.}
+\label{tab:scale_sensitivity}
+\small
+\begin{tabular}{l rr rr rr}
+\toprule
+ & & & \multicolumn{2}{c}{\textbf{All runs}} & \multicolumn{2}{c}{\textbf{Uncensored runs}} \\
+\cmidrule(lr){4-5} \cmidrule(lr){6-7}
+\textbf{Class} & \textbf{Cases} & \textbf{Runs} & \textbf{Improved} & \textbf{Gain} & \textbf{Improved} & \textbf{Gain} \\
+\midrule
+Small ($|V| \le 50$) & 21 & 210 & 17 & 657 & 17 & 657 \\
+Medium ($51 \le |V| \le 100$) & 17 & 170 & 20 & 1,358 & 20 & 1,358 \\
+Large ($101 \le |V| \le 180$) & 13 & 130 & 8 & 1,092 & 0 & 0 \\
+Very large ($|V| > 180$) & 8 & 80 & 1 & 2 & 1 & 2 \\
+\midrule
+\textbf{Total} & 59 & 590 & 46 & 3,109 & 38 & 2,017 \\
+\bottomrule
+\end{tabular}
+\end{table}
